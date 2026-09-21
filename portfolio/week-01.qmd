@@ -12,14 +12,40 @@ categories: [Fondasi, Person]
 
 Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
 
-## Evidence wajib
+## Character Map
 
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+| Domain | Character | Objective | Responsibility | Repertoire | Risiko Komunikasi |
+|---|---|---|---|---|---|
+| Kuliah | **Mahasiswa yang bertanggung jawab** | Memahami materi dan menyelesaikan tugas tepat waktu | Mengikuti kuliah, mengerjakan tugas, dan mengumpulkan sesuai deadline | Mencatat materi, bertanya, diskusi, dan mencari referensi | Kadang terlalu fokus ke tugas sampai kurang memperhatikan komunikasi dengan teman |
+| Musik | **Gitaris** | Mengembangkan skill bermain gitar dan bisa tampil dengan baik | Latihan dan mempersiapkan lagu sebelum tampil | Latihan gitar, belajar lagu, membuat aransemen, dan bermain bersama | Kadang terlalu fokus dengan permainan sendiri dan kurang mendengarkan pemain lain |
+| Organisasi | **Anggota yang bisa diajak kerja sama** | Bisa ikut berkontribusi dalam kegiatan | Mengikuti kegiatan, mengerjakan bagian yang diberikan, dan berkomunikasi dengan anggota lain | Diskusi, koordinasi, pembagian tugas, dan menerima masukan | Kadang lebih memilih mengikuti keputusan orang lain daripada menyampaikan pendapat sendiri |
+| Pertemanan | **Teman yang suportif** | Menjaga hubungan baik dan membantu teman saat dibutuhkan | Mendengarkan dan memberikan bantuan atau masukan | Ngobrol, mendengarkan cerita, bercanda, dan berdiskusi | Kadang terlalu cepat memberikan saran sebelum memahami masalah teman |
+| Keluarga | **Anak yang bisa diandalkan** | Tetap menjaga hubungan dan membantu keluarga | Memberi kabar dan membantu ketika dibutuhkan | Ngobrol, berdiskusi, membantu pekerjaan, dan mendengarkan | Saat sedang sibuk kuliah atau kegiatan, komunikasi dengan keluarga bisa berkurang |
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Person, Personality, dan Character
 
-{{< include ../includes/evidence-template.md >}}
+**Person** adalah saya sebagai individu dengan pengalaman dan kehidupan saya sendiri.
+
+**Personality** lebih ke kecenderungan saya dalam bersikap. Saya termasuk orang yang cukup mudah beradaptasi dan biasanya lebih cepat belajar ketika topiknya memang saya sukai.
+
+Sedangkan **character** bisa berubah tergantung situasi. Saat kuliah, saya berperan sebagai mahasiswa yang bertanggung jawab. Saat bermain musik, saya lebih berperan sebagai gitaris yang fokus pada permainan dan kerja sama dengan pemain lain. Saat ikut organisasi, saya perlu menjadi anggota yang bisa bekerja sama dengan orang lain.
+
+## Contoh perubahan language ketika character berubah
+
+Saat berbicara dengan dosen, saya akan menggunakan bahasa yang lebih formal karena relationship dan situasinya berbeda.
+
+> "Selamat pagi, Pak. Saya ingin memastikan apakah tugas tersebut dikumpulkan melalui sistem yang sama seperti tugas sebelumnya?"
+
+Sedangkan kalau bertanya kepada teman, saya bisa menggunakan bahasa yang lebih santai.
+
+> "Eh, tugasnya dikumpul di mana ya? Aku belum nemu infonya."
+
+Dari contoh tersebut, cara saya berbicara bisa berubah tergantung **character, relationship, dan objective** yang sedang saya jalankan.
+
+## Refleksi
+
+Dari character map ini, saya jadi sadar kalau satu orang bisa punya beberapa character tergantung situasinya. Saya tetap orang yang sama, tetapi cara saya bertindak dan berkomunikasi bisa berbeda.
+
+Sebagai mahasiswa, saya harus lebih bertanggung jawab terhadap kuliah. Sebagai gitaris, saya perlu fokus mengembangkan kemampuan dan bisa bekerja sama dengan pemain lain. Sementara itu, dalam organisasi dan pertemanan, saya perlu lebih bisa berkomunikasi dan menyesuaikan diri dengan orang lain.
+
+Menurut saya, memahami character ini membantu saya untuk lebih sadar bahwa cara berkomunikasi tidak bisa selalu sama di setiap situasi.
