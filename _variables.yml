@@ -1,9 +1,9 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Mouristio R. A. K. L. Praing"
+  id: "185119"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225119@std.stei.itb.ac.id"
 
 course:
   code: "KIPP-2"
