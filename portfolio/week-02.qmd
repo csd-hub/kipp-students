@@ -14,12 +14,52 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 ## Evidence wajib
 
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+### Episode komunikasi dengan diri sendiri
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**Event:**  
+Saya mendapatkan beberapa tugas kuliah yang harus dikerjakan dalam waktu yang berdekatan. Ketika melihat tugas-tugas tersebut, saya merasa pekerjaan saya terlalu banyak.
 
-{{< include ../includes/evidence-template.md >}}
+| Lapisan | Catatan |
+|---|---|
+| Fact | Ada beberapa tugas yang harus dikerjakan dan masing-masing memiliki deadline. |
+| Initial story | “Tugas saya terlalu banyak dan saya mungkin tidak akan mampu menyelesaikannya tepat waktu.” |
+| Emotion | Cemas, panik, dan merasa tertekan. |
+| Internal character | “Overthinker” yang langsung memikirkan kemungkinan terburuk dan ingin menunda pekerjaan. |
+| Choice | Berhenti melihat semua tugas sebagai satu masalah besar dan menentukan prioritas berdasarkan deadline. |
+| Action | Membuat daftar tugas, menentukan prioritas, lalu mulai mengerjakan tugas dengan deadline terdekat. |
+
+Initial story saya tidak sepenuhnya berdasarkan fakta karena banyaknya tugas tidak berarti saya pasti gagal menyelesaikannya. Fakta yang ada adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
+
+### Alternative narratives
+
+1. **Prioritas:** Saya memang memiliki beberapa tugas, tetapi tidak semuanya harus diselesaikan sekaligus. Saya dapat menentukan tugas yang paling mendesak terlebih dahulu.
+
+2. **Dapat dikerjakan bertahap:** Tugas yang banyak dapat dibagi menjadi beberapa bagian kecil sehingga lebih mudah untuk dikerjakan.
+
+3. **Kesempatan untuk mengatur diri:** Keadaan ini dapat menjadi kesempatan bagi saya untuk belajar mengatur waktu dan menentukan prioritas dengan lebih baik.
+
+Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya tugas tidak harus diselesaikan sekaligus. Saya hanya perlu fokus pada satu bagian pekerjaan dalam satu waktu.
+
+### Internal conversation dan agreement
+
+> **Overthinker:** “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”
+
+> **Planner:** “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”
+
+> **Saya:** “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
+
+**Internal agreement:** Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
+
+### Evidence tindakan
+
+- Membuat daftar tugas dan deadline yang harus diselesaikan.
+- Mulai mengerjakan tugas dengan deadline paling dekat.
+- Menyelesaikan bagian pertama dari tugas tersebut sebelum berpindah ke tugas lain.
+
+Tindakan tersebut membantu saya mengubah respons dari hanya merasa cemas menjadi melakukan sesuatu yang konkret untuk menyelesaikan masalah.
+
+### Refleksi
+
+Saya menyadari bahwa saya terkadang langsung bereaksi terhadap banyaknya pekerjaan tanpa melihat fakta secara keseluruhan. Setelah memisahkan **fact** dan **story**, saya menyadari bahwa masalah sebenarnya bukan bahwa saya tidak mampu menyelesaikan tugas, tetapi saya belum menentukan prioritas dengan baik.
+
+**Next practice:** ketika merasa kewalahan dengan banyaknya tugas, saya akan memisahkan fakta dari asumsi terlebih dahulu, kemudian menentukan satu tindakan yang dapat langsung dilakukan.
