@@ -1,20 +1,20 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-**## Kompetensi target**
+## Kompetensi target
 
 Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
-**## Episode**
+## Episode
 
-**\*\*Event:\*\*** Saya mendapatkan beberapa tugas kuliah yang harus dikerjakan dalam waktu yang berdekatan. Ketika melihat tugas-tugas tersebut, saya merasa pekerjaan saya terlalu banyak.
+**Event:** Saya mendapatkan beberapa tugas kuliah yang harus dikerjakan dalam waktu yang berdekatan. Ketika melihat tugas-tugas tersebut, saya merasa pekerjaan saya terlalu banyak.
 
 | Lapisan | Catatan |
 |---|---|
@@ -26,25 +26,25 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 Initial story saya tidak sepenuhnya berdasarkan fakta karena banyaknya tugas tidak berarti saya pasti gagal menyelesaikannya. Fakta yang ada adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
 
-**## Alternative narratives**
+## Alternative narratives
 
-1. **\*\*Prioritas:\*\*** Saya memang memiliki beberapa tugas, tetapi tidak semuanya harus diselesaikan sekaligus. Saya dapat menentukan tugas yang paling mendesak terlebih dahulu.
+1. **Prioritas:** Saya memang memiliki beberapa tugas, tetapi tidak semuanya harus diselesaikan sekaligus. Saya dapat menentukan tugas yang paling mendesak terlebih dahulu.
 
-2. **\*\*Dapat dikerjakan bertahap:\*\*** Tugas yang banyak dapat dibagi menjadi beberapa bagian kecil sehingga lebih mudah untuk dikerjakan.
+2. **Dapat dikerjakan bertahap:** Tugas yang banyak dapat dibagi menjadi beberapa bagian kecil sehingga lebih mudah untuk dikerjakan.
 
-3. **\*\*Kesempatan untuk mengatur diri:\*\*** Keadaan ini dapat menjadi kesempatan bagi saya untuk belajar mengatur waktu dan menentukan prioritas dengan lebih baik.
+3. **Kesempatan untuk mengatur diri:** Keadaan ini dapat menjadi kesempatan bagi saya untuk belajar mengatur waktu dan menentukan prioritas dengan lebih baik.
 
 Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya tugas tidak harus diselesaikan sekaligus. Saya hanya perlu fokus pada satu bagian pekerjaan dalam satu waktu.
 
-**## Internal conversation dan agreement**
+## Internal conversation dan agreement
 
-> **\*\*Overthinker:\*\*** “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”  
-> **\*\*Planner:\*\*** “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”  
-> **\*\*Saya:\*\*** “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
+> **Overthinker:** “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”  
+> **Planner:** “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”  
+> **Saya:** “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
 
-**\*\*Internal agreement:\*\*** Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
+**Internal agreement:** Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
 
-**## Evidence tindakan**
+## Evidence tindakan
 
 - Membuat daftar tugas dan deadline yang harus diselesaikan.
 - Mulai mengerjakan tugas dengan deadline paling dekat.
@@ -52,7 +52,7 @@ Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya 
 
 Tindakan tersebut membantu saya mengubah respons dari hanya merasa cemas menjadi melakukan sesuatu yang konkret untuk menyelesaikan masalah.
 
-**## Feedback, AI, dan refleksi**
+## Feedback, AI, dan refleksi
 
 Saat meninjau kembali kejadian tersebut, saya menyadari bahwa kalimat “saya mungkin tidak akan mampu menyelesaikannya tepat waktu” merupakan evaluasi atau story, bukan fact. Fakta yang sebenarnya adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
 
@@ -62,4 +62,4 @@ Dari proses ini, saya belajar bahwa ketika menghadapi banyak tugas, saya tidak h
 
 Next practice: ketika merasa kewalahan dengan banyaknya tugas, saya akan menulis tiga kolom—`fact`, `story`, dan `next action`—sebelum menentukan tindakan.
 
-{{< include ../includes/evidence-template.md >}}
+
