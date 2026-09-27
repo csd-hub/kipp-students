@@ -1,56 +1,50 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Siap dinilai"
+status: "Belum dimulai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-## Kompetensi target
+**## Kompetensi target**
 
 Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
-## Evidence wajib
+**## Episode**
 
-### Episode komunikasi dengan diri sendiri
-
-**Event:**  
-Saya mendapatkan beberapa tugas kuliah yang harus dikerjakan dalam waktu yang berdekatan. Ketika melihat tugas-tugas tersebut, saya merasa pekerjaan saya terlalu banyak.
+**\*\*Event:\*\*** Saya mendapatkan beberapa tugas kuliah yang harus dikerjakan dalam waktu yang berdekatan. Ketika melihat tugas-tugas tersebut, saya merasa pekerjaan saya terlalu banyak.
 
 | Lapisan | Catatan |
 |---|---|
 | Fact | Ada beberapa tugas yang harus dikerjakan dan masing-masing memiliki deadline. |
 | Initial story | “Tugas saya terlalu banyak dan saya mungkin tidak akan mampu menyelesaikannya tepat waktu.” |
-| Emotion | Cemas, panik, dan merasa tertekan. |
-| Internal character | “Overthinker” yang langsung memikirkan kemungkinan terburuk dan ingin menunda pekerjaan. |
-| Choice | Berhenti melihat semua tugas sebagai satu masalah besar dan menentukan prioritas berdasarkan deadline. |
-| Action | Membuat daftar tugas, menentukan prioritas, lalu mulai mengerjakan tugas dengan deadline terdekat. |
+| Emotion/body signal | Cemas, panik, dan merasa tertekan ketika melihat banyaknya tugas. |
+| Reactive character | “Overthinker” yang langsung memikirkan kemungkinan terburuk dan ingin menunda pekerjaan. |
+| Desired character | “Planner” yang melihat deadline, menentukan prioritas, dan mengerjakan tugas secara bertahap. |
 
 Initial story saya tidak sepenuhnya berdasarkan fakta karena banyaknya tugas tidak berarti saya pasti gagal menyelesaikannya. Fakta yang ada adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
 
-### Alternative narratives
+**## Alternative narratives**
 
-1. **Prioritas:** Saya memang memiliki beberapa tugas, tetapi tidak semuanya harus diselesaikan sekaligus. Saya dapat menentukan tugas yang paling mendesak terlebih dahulu.
+1. **\*\*Prioritas:\*\*** Saya memang memiliki beberapa tugas, tetapi tidak semuanya harus diselesaikan sekaligus. Saya dapat menentukan tugas yang paling mendesak terlebih dahulu.
 
-2. **Dapat dikerjakan bertahap:** Tugas yang banyak dapat dibagi menjadi beberapa bagian kecil sehingga lebih mudah untuk dikerjakan.
+2. **\*\*Dapat dikerjakan bertahap:\*\*** Tugas yang banyak dapat dibagi menjadi beberapa bagian kecil sehingga lebih mudah untuk dikerjakan.
 
-3. **Kesempatan untuk mengatur diri:** Keadaan ini dapat menjadi kesempatan bagi saya untuk belajar mengatur waktu dan menentukan prioritas dengan lebih baik.
+3. **\*\*Kesempatan untuk mengatur diri:\*\*** Keadaan ini dapat menjadi kesempatan bagi saya untuk belajar mengatur waktu dan menentukan prioritas dengan lebih baik.
 
 Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya tugas tidak harus diselesaikan sekaligus. Saya hanya perlu fokus pada satu bagian pekerjaan dalam satu waktu.
 
-### Internal conversation dan agreement
+**## Internal conversation dan agreement**
 
-> **Overthinker:** “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”
+> **\*\*Overthinker:\*\*** “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”  
+> **\*\*Planner:\*\*** “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”  
+> **\*\*Saya:\*\*** “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
 
-> **Planner:** “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”
+**\*\*Internal agreement:\*\*** Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
 
-> **Saya:** “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
-
-**Internal agreement:** Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
-
-### Evidence tindakan
+**## Evidence tindakan**
 
 - Membuat daftar tugas dan deadline yang harus diselesaikan.
 - Mulai mengerjakan tugas dengan deadline paling dekat.
@@ -58,18 +52,14 @@ Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya 
 
 Tindakan tersebut membantu saya mengubah respons dari hanya merasa cemas menjadi melakukan sesuatu yang konkret untuk menyelesaikan masalah.
 
-### Feedback, AI, dan refleksi
+**## Feedback, AI, dan refleksi**
 
-Saat meninjau kembali kejadian tersebut, saya menyadari bahwa kalimat “saya mungkin tidak akan mampu menyelesaikannya tepat waktu” merupakan story, bukan fakta. Fakta yang sebenarnya adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
+Saat meninjau kembali kejadian tersebut, saya menyadari bahwa kalimat “saya mungkin tidak akan mampu menyelesaikannya tepat waktu” merupakan evaluasi atau story, bukan fact. Fakta yang sebenarnya adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
 
-AI digunakan untuk membantu saya melihat situasi dari sudut pandang yang berbeda dan mencari cara untuk membagi pekerjaan menjadi beberapa bagian yang lebih kecil. Namun, keputusan mengenai tugas mana yang harus diprioritaskan tetap saya tentukan berdasarkan deadline dan kondisi saya sendiri.
+AI digunakan untuk membantu saya melihat situasi dari sudut pandang yang berbeda dan mencari cara untuk membagi pekerjaan menjadi beberapa bagian yang lebih kecil. AI tidak digunakan untuk menentukan keputusan akhir. Saya tetap menentukan tugas yang harus diprioritaskan berdasarkan deadline dan kondisi saya sendiri.
 
-Dari proses ini, saya belajar bahwa ketika menghadapi banyak tugas, saya tidak harus langsung memikirkan semua pekerjaan sekaligus. Saya dapat mengubah reaction berupa panik dan menunda pekerjaan menjadi response berupa menentukan prioritas dan mulai mengerjakan tugas.
+Dari proses ini, saya belajar bahwa ketika menghadapi banyak tugas, saya tidak harus langsung memikirkan semua pekerjaan sekaligus. Saya dapat mengubah reaction berupa panik dan keinginan untuk menunda menjadi response berupa menentukan prioritas dan mulai mengerjakan tugas.
 
+Next practice: ketika merasa kewalahan dengan banyaknya tugas, saya akan menulis tiga kolom—`fact`, `story`, dan `next action`—sebelum menentukan tindakan.
 
-
-### Refleksi
-
-Saya menyadari bahwa saya terkadang langsung bereaksi terhadap banyaknya pekerjaan tanpa melihat fakta secara keseluruhan. Setelah memisahkan **fact** dan **story**, saya menyadari bahwa masalah sebenarnya bukan bahwa saya tidak mampu menyelesaikan tugas, tetapi saya belum menentukan prioritas dengan baik.
-
-**Next practice:** ketika merasa kewalahan dengan banyaknya tugas, saya akan memisahkan fakta dari asumsi terlebih dahulu, kemudian menentukan satu tindakan yang dapat langsung dilakukan.
+{{< include ../includes/evidence-template.md >}}
