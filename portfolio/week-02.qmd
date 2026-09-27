@@ -62,4 +62,25 @@ Dari proses ini, saya belajar bahwa ketika menghadapi banyak tugas, saya tidak h
 
 Next practice: ketika merasa kewalahan dengan banyaknya tugas, saya akan menulis tiga kolom—`fact`, `story`, dan `next action`—sebelum menentukan tindakan.
 
+## Self-assessment
+
+| Dimensi | Level | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 3 – Kompeten | Saya mampu mengenali karakter **Overthinker** yang muncul dan membandingkannya dengan karakter **Planner** yang ingin saya gunakan. |
+| **Objective & State** | 3 – Kompeten | Saya dapat membedakan **fact** dari **story** serta mengenali emosi berupa cemas, panik, dan tertekan. |
+| **Repertoire, Language & AI** | 3 – Kompeten | Saya menggunakan AI untuk mendapatkan alternatif cara melihat masalah dan membantu memisahkan fact, story, serta tindakan. |
+| **Response & Adaptation** | 3 – Kompeten | Saya mengubah respons awal berupa panik dan keinginan menunda menjadi respons dengan menentukan prioritas dan mengerjakan tugas secara bertahap. |
+| **Agreement, Action & Relationship** | 3 – Kompeten | Saya membuat internal agreement untuk menyusun tugas berdasarkan deadline dan mulai mengerjakan tugas yang paling mendesak. |
+
+**Total: 15/20 — Kompeten.**
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
+
 
