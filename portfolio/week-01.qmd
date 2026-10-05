@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: "—"
+self_score: "13 / 20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -48,11 +48,33 @@ Dari contoh tersebut, cara saya berbicara bisa berubah tergantung **character, r
 
 Character Map dan refleksi dibuat berdasarkan pengalaman dan pengamatan saya sendiri. Saya menentukan character, objective, responsibility, repertoire, dan risiko komunikasi berdasarkan situasi yang saya alami.
 
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:**
+
+Hasil evaluasi menunjukkan bahwa saya sudah mampu membedakan person, personality, dan character serta menyesuaikan bahasa berdasarkan situasi. Namun, saya masih perlu meningkatkan inisiatif dalam menyampaikan pendapat dan mengambil keputusan bersama.
+
+**Adaptation/replay:**
+
+Dalam diskusi kelompok berikutnya, saya akan berusaha tidak hanya mengikuti keputusan yang sudah dibuat oleh anggota kelompok. Saya akan mencoba menyampaikan setidaknya satu ide, alternatif, atau pertanyaan kritis sebelum diskusi berakhir.
+
+Contohnya, ketika kelompok sudah memiliki satu pilihan, saya dapat menyampaikan:
+
+> "Kalau menurut saya, bisa juga menggunakan alternatif ini karena mungkin lebih sesuai dengan tujuan kita."
+
+Kalimat tersebut merupakan contoh latihan/replay, bukan kutipan dari percakapan yang sudah terjadi.
+
+**Next practice:**
+
+Saya akan melatih diri untuk lebih aktif dalam diskusi kelompok dengan menyampaikan minimal satu pendapat atau pertanyaan kritis. Dengan begitu, kontribusi saya tidak hanya berupa persetujuan, tetapi juga dapat membantu kelompok mempertimbangkan pilihan lain sebelum mengambil keputusan.
+
 ## Refleksi
 
 Dari character map ini, saya jadi sadar kalau satu orang bisa punya beberapa character tergantung situasinya. Saya tetap orang yang sama, tetapi cara saya bertindak dan berkomunikasi bisa berbeda.
 
 Sebagai mahasiswa, saya harus lebih bertanggung jawab terhadap kuliah. Sebagai gitaris, saya perlu fokus mengembangkan kemampuan dan bisa bekerja sama dengan pemain lain. Sementara itu, dalam organisasi dan pertemanan, saya perlu lebih bisa berkomunikasi dan menyesuaikan diri dengan orang lain.
+
+Saya juga menyadari bahwa kemampuan menyesuaikan diri perlu diimbangi dengan keberanian untuk menyampaikan pendapat. Tidak hanya mengikuti keputusan orang lain, saya perlu ikut memberikan ide dan alternatif agar dapat berkontribusi dalam pengambilan keputusan bersama.
 
 Menurut saya, memahami character ini membantu saya untuk lebih sadar bahwa cara berkomunikasi tidak bisa selalu sama di setiap situasi.
 
@@ -76,7 +98,7 @@ Menurut saya, memahami character ini membantu saya untuk lebih sadar bahwa cara 
 
 **Evidence yang mendukung:** —  
 
-**Prioritas perbaikan:** —  
+**Prioritas perbaikan:** Meningkatkan inisiatif dalam menyampaikan ide, alternatif, atau pertanyaan kritis dalam diskusi kelompok.
 
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 
