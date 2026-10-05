@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap dinilai"
-self_score: "—"
+self_score: "15 / 20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -19,10 +19,10 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 | Lapisan | Catatan |
 |---|---|
 | Fact | Ada beberapa tugas yang harus dikerjakan dan masing-masing memiliki deadline. |
-| Initial story | “Tugas saya terlalu banyak dan saya mungkin tidak akan mampu menyelesaikannya tepat waktu.” |
+| Initial story | "Tugas saya terlalu banyak dan saya mungkin tidak akan mampu menyelesaikannya tepat waktu." |
 | Emotion/body signal | Cemas, panik, dan merasa tertekan ketika melihat banyaknya tugas. |
-| Reactive character | “Overthinker” yang langsung memikirkan kemungkinan terburuk dan ingin menunda pekerjaan. |
-| Desired character | “Planner” yang melihat deadline, menentukan prioritas, dan mengerjakan tugas secara bertahap. |
+| Reactive character | "Overthinker" yang langsung memikirkan kemungkinan terburuk dan ingin menunda pekerjaan. |
+| Desired character | "Planner" yang melihat deadline, menentukan prioritas, dan mengerjakan tugas secara bertahap. |
 
 Initial story saya tidak sepenuhnya berdasarkan fakta karena banyaknya tugas tidak berarti saya pasti gagal menyelesaikannya. Fakta yang ada adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
 
@@ -38,9 +38,11 @@ Alternative kedua paling membantu karena membuat saya menyadari bahwa banyaknya 
 
 ## Internal conversation dan agreement
 
-> **Overthinker:** “Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai.”  
-> **Planner:** “Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu.”  
-> **Saya:** “Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak.”
+> **Overthinker:** "Tugasnya banyak sekali. Kalau mulai sekarang pun mungkin tetap tidak selesai."
+
+> **Planner:** "Kita belum tahu apakah benar tidak akan selesai. Coba lihat deadline masing-masing dan kerjakan yang paling dekat terlebih dahulu."
+
+> **Saya:** "Saya tidak perlu menyelesaikan semuanya sekarang. Saya akan mulai dari tugas yang paling mendesak."
 
 **Internal agreement:** Saya akan membuat daftar tugas berdasarkan deadline, memilih satu tugas yang paling prioritas, dan mulai mengerjakannya sebelum melakukan hal lain.
 
@@ -54,13 +56,37 @@ Tindakan tersebut membantu saya mengubah respons dari hanya merasa cemas menjadi
 
 ## Feedback, AI, dan refleksi
 
-Saat meninjau kembali kejadian tersebut, saya menyadari bahwa kalimat “saya mungkin tidak akan mampu menyelesaikannya tepat waktu” merupakan evaluasi atau story, bukan fact. Fakta yang sebenarnya adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
+Saat meninjau kembali kejadian tersebut, saya menyadari bahwa kalimat "saya mungkin tidak akan mampu menyelesaikannya tepat waktu" merupakan evaluasi atau story, bukan fact. Fakta yang sebenarnya adalah saya memiliki beberapa tugas dengan deadline yang berbeda.
 
 AI digunakan untuk membantu saya melihat situasi dari sudut pandang yang berbeda dan mencari cara untuk membagi pekerjaan menjadi beberapa bagian yang lebih kecil. AI tidak digunakan untuk menentukan keputusan akhir. Saya tetap menentukan tugas yang harus diprioritaskan berdasarkan deadline dan kondisi saya sendiri.
 
 Dari proses ini, saya belajar bahwa ketika menghadapi banyak tugas, saya tidak harus langsung memikirkan semua pekerjaan sekaligus. Saya dapat mengubah reaction berupa panik dan keinginan untuk menunda menjadi response berupa menentukan prioritas dan mulai mengerjakan tugas.
 
-Next practice: ketika merasa kewalahan dengan banyaknya tugas, saya akan menulis tiga kolom—`fact`, `story`, dan `next action`—sebelum menentukan tindakan.
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:**
+
+Hasil evaluasi menunjukkan bahwa saya sudah mampu memisahkan fact, story, emotion, dan karakter internal serta menggunakan AI secara proporsional. Namun, saya masih perlu meningkatkan kemampuan dalam menghadapi ketidakpastian dan trade-off ketika kondisi atau prioritas berubah.
+
+**Adaptation/replay:**
+
+Sebagai latihan, saya membuat skenario ketika salah satu deadline tugas dimajukan secara tiba-tiba. Dalam kondisi tersebut, saya tidak langsung kembali ke pola "Overthinker", tetapi menggunakan "Planner" untuk melihat kembali prioritas dan menyesuaikan rencana.
+
+Misalnya, jika tugas A awalnya memiliki deadline yang lebih jauh tetapi kemudian dimajukan, saya akan memprioritaskan tugas A dan menyesuaikan waktu pengerjaan tugas lainnya. Saya perlu mempertimbangkan trade-off antara menyelesaikan tugas lebih cepat dan tetap menjaga kualitas hasil.
+
+Contoh replay:
+
+> "Karena deadline tugas ini dimajukan, saya akan memprioritaskan bagian yang paling penting terlebih dahulu. Tugas lain saya geser ke waktu berikutnya agar tetap bisa selesai tanpa mengabaikan kualitas."
+
+Contoh tersebut merupakan latihan/replay, bukan kejadian yang benar-benar terjadi.
+
+**Bukti tindakan yang perlu dikumpulkan:**
+
+Saya akan menyimpan catatan perubahan rencana atau daftar prioritas ketika terjadi perubahan deadline atau kondisi yang tidak sesuai dengan rencana awal. Bukti tersebut dapat menunjukkan bagaimana saya menyesuaikan tindakan setelah menerima informasi baru.
+
+**Next practice:**
+
+Ketika prioritas berubah, saya akan menggunakan pola **fact → perubahan kondisi → prioritas → trade-off → next action**. Dengan cara ini, saya dapat tetap menggunakan karakter "Planner" tanpa kembali ke pola "Overthinker".
 
 ## Self-assessment
 
@@ -72,15 +98,16 @@ Next practice: ketika merasa kewalahan dengan banyaknya tugas, saya akan menulis
 | **Response & Adaptation** | 3 – Kompeten | Saya mengubah respons awal berupa panik dan keinginan menunda menjadi respons dengan menentukan prioritas dan mengerjakan tugas secara bertahap. |
 | **Agreement, Action & Relationship** | 3 – Kompeten | Saya membuat internal agreement untuk menyusun tugas berdasarkan deadline dan mulai mengerjakan tugas yang paling mendesak. |
 
-**Total:** 15/20
+**Total:** 15 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
 
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
-
-
