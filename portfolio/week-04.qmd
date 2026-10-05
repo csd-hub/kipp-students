@@ -2,7 +2,7 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "—"
+self_score: "13 / 20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -15,6 +15,14 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 ## Evidence wajib
 
 Core meaning yang digunakan adalah bahwa lagu perlu diulik atau dilatih kembali sebelum hari tampil agar tidak lupa saat penampilan.
+
+Evidence yang digunakan meliputi:
+
+- Lima versi penyampaian core meaning untuk friend, technical peer, manager, customer, dan public.
+- Alasan perubahan language dan repertoire pada setiap target.
+- Bukti percakapan dengan teman sebagai target nyata.
+- Feedback teman terhadap pesan yang disampaikan.
+- Adaptasi atau tindakan lanjutan setelah menerima feedback.
 
 ### 1. Friend
 
@@ -71,23 +79,36 @@ Saya menjawab, "Bisalah itu malam."
 ## Konteks performance
 
 **Tanggal dan setting:**  
+
 Sekitar masa persiapan penampilan musik di acara kampus. Saya melakukan latihan dan mengulik kembali lagu yang akan ditampilkan bersama teman-teman.
 
 **Persons dan relationship:**  
+
 Saya berkomunikasi dengan teman yang juga terlibat dalam persiapan penampilan musik.
 
 **Objective dan initial state:**  
+
 Tujuannya adalah menjaga agar lagu yang akan ditampilkan tetap diingat dan tidak terlalu banyak bagian yang terlupakan saat hari tampil. Pada awalnya saya belum selalu mengulik lagu kembali secara rutin.
 
 ## Evidence
 
 ::: {.evidence-block}
 
-Saat persiapan penampilan musik, salah satu teman bertanya kepada saya, "Udah coba pelajarin kembali belum lagunya?"
+Saat persiapan penampilan musik, salah satu teman bertanya kepada saya:
 
-Saya menjawab, "Bisalah itu malam." Namun, pada kenyataannya saya malah ketiduran sehingga tidak jadi mengulik lagu pada malam tersebut.
+> "Udah coba pelajarin kembali belum lagunya?"
 
-Teman saya hanya menjawab, "Oke."
+Saya menjawab:
+
+> "Bisalah itu malam."
+
+Namun, pada kenyataannya saya malah ketiduran sehingga tidak jadi mengulik lagu pada malam tersebut.
+
+Teman saya kemudian menjawab:
+
+> "Oke."
+
+Feedback tersebut menunjukkan bahwa teman menerima jawaban saya, tetapi belum memberikan feedback yang spesifik mengenai apakah pesan saya sudah dipahami atau belum.
 
 Setelah kejadian tersebut, saya mulai lebih memperhatikan pentingnya mengulik kembali lagu. Saya kemudian selalu mencoba mengulang lagu setelah latihan agar bagian yang sudah dipelajari tetap diingat sampai hari penampilan.
 
@@ -103,7 +124,7 @@ Kontribusi saya adalah melakukan latihan dan pengulangan lagu secara mandiri set
 | Objective & state | Tujuan komunikasi adalah memastikan lagu tetap diingat sebelum hari tampil. Pada awalnya saya belum konsisten mengulang lagu sehingga ada kemungkinan beberapa bagian terlupakan. |
 | Repertoire & language | Saya menggunakan bahasa santai kepada teman. Ketika diadaptasikan kepada technical peer, manager, customer, dan public, pesan yang sama dibuat lebih spesifik, formal, sopan, atau umum sesuai targetnya. |
 | Response & adaptation | Awalnya saya mengatakan bahwa saya akan mengulik lagu pada malam hari, tetapi ternyata saya ketiduran. Setelah itu saya mengubah kebiasaan dengan lebih rutin mengulang lagu setelah latihan. |
-| Agreement/action | Tidak ada kesepakatan khusus dalam percakapan tersebut. Namun, tindakan yang saya lakukan setelahnya adalah mengulik kembali lagu secara rutin setelah latihan. |
+| Agreement & action | Percakapan awal belum menghasilkan kesepakatan khusus. Namun, setelah percakapan tersebut saya mengambil tindakan dengan mengulang lagu secara rutin setelah latihan. |
 | Relationship outcome | Hubungan dengan teman tetap baik. Percakapan tersebut juga membuat saya lebih sadar bahwa latihan ulang diperlukan untuk menjaga kesiapan sebelum tampil. |
 
 ## Penggunaan AI
@@ -117,13 +138,30 @@ Saya tetap memeriksa kembali hasilnya agar sesuai dengan pengalaman dan situasi 
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:**  
-Feedback langsung dari teman tidak terlalu banyak. Ketika teman bertanya apakah saya sudah mempelajari kembali lagu dan saya menjawab bahwa saya akan melakukannya malam itu, teman hanya merespons, "Oke."
+
+Dalam percakapan awal, teman bertanya apakah saya sudah mempelajari kembali lagu. Saya menjawab bahwa saya akan melakukannya malam itu, kemudian teman menjawab, "Oke."
+
+Feedback tersebut menunjukkan bahwa teman menerima jawaban saya, tetapi belum terdapat feedback yang lebih spesifik mengenai pemahaman pesan atau rencana latihan bersama.
 
 **Adaptation/replay:**  
-Setelah kejadian tersebut, saya menyadari bahwa mengatakan akan mengulik lagu saja tidak cukup jika tidak benar-benar dilakukan. Saya kemudian lebih rutin mengulang lagu setelah latihan agar lebih siap menghadapi hari tampil.
+
+Setelah menyadari bahwa mengatakan akan mengulik lagu saja tidak cukup jika tidak benar-benar dilakukan, saya mulai lebih rutin mengulang lagu setelah latihan.
+
+Untuk replay, saya akan menyampaikan pesan dengan lebih jelas dan sekaligus meminta feedback dari teman:
+
+> "Aku bakal ulang lagu ini lagi setelah latihan supaya bagian yang aku mainkan tetap ingat sebelum hari H. Kalau ada bagian yang menurutmu masih kurang, kasih tahu ya."
+
+Dengan cara tersebut, saya dapat mengetahui apakah pesan saya dipahami dengan benar dan membuka kesempatan bagi teman untuk memberikan feedback.
 
 **Next practice:**  
-Saya akan membiasakan diri mengulang lagu segera setelah latihan atau menentukan waktu khusus untuk latihan ulang agar tidak hanya mengandalkan niat untuk belajar nanti.
+
+Saya akan membiasakan diri menyampaikan rencana secara lebih jelas dan meminta feedback secara langsung. Saya juga akan mencoba membuat rencana latihan yang lebih konkret bersama teman agar tidak hanya mengandalkan niat untuk belajar nanti.
+
+## Refleksi
+
+Dari pengalaman ini, saya menyadari bahwa menyampaikan pesan yang benar belum tentu cukup untuk memastikan komunikasi berhasil. Pada percakapan awal, teman hanya menjawab "Oke", sehingga saya belum memiliki bukti yang kuat bahwa terdapat pemahaman dan rencana aksi bersama.
+
+Saya sudah mampu mempertahankan core meaning ketika menyesuaikan bahasa untuk lima target yang berbeda. Namun, saya masih perlu meningkatkan kemampuan untuk meminta feedback dan memastikan adanya action yang dipahami bersama.
 
 ## Self-assessment
 
@@ -133,15 +171,20 @@ Saya akan membiasakan diri mengulang lagu segera setelah latihan atau menentukan
 | Objective & State | 3 – Kompeten | Saya memahami bahwa tujuan mengulang lagu adalah menjaga agar bagian lagu tetap diingat sebelum hari tampil. Saya juga menyadari kondisi awal saya yang belum konsisten mengulang lagu. |
 | Repertoire, Language & AI | 3 – Kompeten | Saya dapat mempertahankan core meaning yang sama tentang pentingnya mengulang lagu, lalu menyesuaikan cara penyampaiannya berdasarkan target komunikasi yang berbeda. |
 | Response & Adaptation | 2 – Berkembang | Pada awalnya saya mengatakan akan mengulik lagu pada malam hari, tetapi ternyata saya ketiduran. Setelah menyadari hal tersebut, saya mulai lebih rutin mengulang lagu setelah latihan. Prinsip adaptasi sudah terlihat, tetapi belum sepenuhnya konsisten. |
-| Agreement, Action & Relationship | 2 – Berkembang | Hubungan dengan teman tetap baik dan saya melakukan tindakan dengan mengulang lagu setelah latihan, tetapi percakapan awal belum menghasilkan kesepakatan atau tindakan bersama yang jelas. |
+| Agreement, Action & Relationship | 2 – Berkembang | Hubungan dengan teman tetap baik dan saya melakukan tindakan dengan mengulang lagu setelah latihan, tetapi percakapan awal belum menghasilkan feedback spesifik atau kesepakatan tindakan bersama yang jelas. |
 
 **Total:** 13 / 20
 
 ::: {.assessor-only}
+
 ### Assessment dosen
 
 **Skor:** — / 20  
+
 **Evidence yang mendukung:** —  
-**Prioritas perbaikan:** Uji sedikitnya satu versi kepada target nyata dan lampirkan feedback serta revisinya.  
-**Keputusan:** Belum dinilai
+
+**Prioritas perbaikan:** Melakukan simulasi atau percakapan dengan target nyata untuk memperoleh feedback spesifik mengenai pemahaman pesan dan rencana action bersama.
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+
 :::
