@@ -2,7 +2,7 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "13 / 20"
+self_score: "15 / 20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -21,98 +21,112 @@ Evidence yang digunakan meliputi:
 - Lima versi penyampaian core meaning untuk friend, technical peer, manager, customer, dan public.
 - Alasan perubahan language dan repertoire pada setiap target.
 - Bukti percakapan dengan teman sebagai target nyata.
-- Feedback teman terhadap pesan yang disampaikan.
-- Adaptasi atau tindakan lanjutan setelah menerima feedback.
+- Feedback spesifik teman terhadap pesan yang disampaikan.
+- Adaptasi atau tindakan lanjutan serta rencana aksi bersama setelah menerima feedback.
 
-### 1. Friend
+---
 
-**Versi komunikasi:**
-
-Teman bertanya, "Udah coba pelajarin kembali belum lagunya?"
-
-Saya menjawab, "Bisalah itu malam."
-
-**Language:** Menggunakan bahasa santai karena berbicara dengan teman.
-
-**Repertoire:** Menjawab secara langsung dan informal dalam percakapan sehari-hari.
-
-### 2. Technical peer
+### 1. Friend (Teman / Target Nyata)
 
 **Versi komunikasi:**
 
-"Sebaiknya kita ulang lagi bagian lagu yang akan dibawakan supaya progresi dan bagian masing-masing tetap ingat sebelum tampil."
+> **Saya:** "Lu udah sempat ngulik ulang lagu yang mau kita bawain nanti belum? Menurut gue kita perlu drill lagi bagian-bagian yang masih kagok biar pas tampil ga blank."  
+> **Teman:** "Gue baru hapal chord dasarnya sih. Bagian intro sama outro yang agak beda tempo masih agak ragu."  
+> **Saya:** "Paham, makanya mending kita ulik fokus di bagian transisi intro sama outro itu nanti malam. Lu setuju ga?"  
+> **Teman:** "Bener banget, bagian transisi itu yang paling rawan. Yaudah nanti malam jam 8 kita bedah bareng via Zoom ya, sekalian gue kirim rekaman part gitar gue."
 
-**Language:** Lebih spesifik mengenai latihan dan bagian lagu.
+**Language:** Menggunakan bahasa santai, akrab, dan langsung (*casual conversing*).
 
-**Repertoire:** Menjelaskan alasan teknis mengapa lagu perlu diulang.
+**Repertoire:** Bertanya secara discovery, menyampaikan kebutuhan *drill* lagu, dan meminta konfirmasi rencana aksi bersama.
 
-### 3. Manager
+---
 
-**Versi komunikasi:**
-
-"Menurut saya kita perlu menjadwalkan latihan ulang sebelum hari tampil agar setiap anggota tetap mengingat bagian masing-masing dan mengurangi kemungkinan lupa saat tampil."
-
-**Language:** Lebih formal dan terstruktur.
-
-**Repertoire:** Menyampaikan kondisi, alasan, dan tindakan yang perlu dilakukan.
-
-### 4. Customer
+### 2. Technical Peer (Rekan Musik / Bandmate)
 
 **Versi komunikasi:**
 
-"Kami akan melakukan latihan ulang sebelum penampilan agar lagu yang dibawakan lebih siap dan penampilan dapat berjalan dengan lancar."
+"Sebaiknya kita *review* ulang *song structure* dan transisi tempo pada lagu yang akan dibawakan. Kita perlu *drill* bagian intro dan outro secara mendalam agar progresi *chord* serta *timing* masing-masing personel tetap sinkron dan presisi sebelum tampil di panggung."
 
-**Language:** Sopan dan berfokus pada kesiapan penampilan.
+**Language:** Menggunakan terminologi musik dan teknis (*song structure*, *drill*, *progresi chord*, *timing*, *transisi tempo*).
 
-**Repertoire:** Menjelaskan tindakan yang dilakukan dan manfaatnya bagi penampilan.
+**Repertoire:** Menjelaskan alasan teknis dan struktural mengapa pengulangan lagu spesifik di bagian tertentu itu penting.
 
-### 5. Public
+---
+
+### 3. Manager (Koordinator / Pembina Acara)
 
 **Versi komunikasi:**
 
-"Sebelum tampil, lagu perlu dilatih kembali secara rutin agar pemain tetap mengingat bagian masing-masing dan penampilan dapat berjalan dengan baik."
+"Berdasarkan evaluasi latihan terakhir, kami menjadwalkan sesi latihan mandiri dan gladi bersih tambahan sebelum hari penampilannya. Hal ini bertujuan agar seluruh anggota tim benar-benar menguasai materi lagu dan menekan risiko kesalahan teknis saat di panggung."
 
-**Language:** Menggunakan bahasa umum yang mudah dipahami.
+**Language:** Formal, profesional, terstruktur, dan berfokus pada mitigasi risiko performa.
 
-**Repertoire:** Memberikan penjelasan singkat mengenai alasan latihan ulang diperlukan.
+**Repertoire:** Menyampaikan temuan kondisi, alasan rasional, dan rencana tindakan mitigasi yang konkret.
+
+---
+
+### 4. Customer (Panitia / Penyelenggara Acara)
+
+**Versi komunikasi:**
+
+"Tim kami saat ini sedang melakukan pemantapan dan latihan ulang secara intensif. Kami memastikan seluruh materi lagu siap 100% sehingga kami dapat memberikan penampilan yang maksimal dan menghibur para pengunjung acara."
+
+**Language:** Sopan, persuasif, reassuring, dan berfokus pada kualitas hasil akhir (*customer satisfaction*).
+
+**Repertoire:** Memberikan kepastian kualitas kerja serta nilai tambah bagi penyelenggara acara.
+
+---
+
+### 5. Public (Penonton / Audiens Umum)
+
+**Versi komunikasi:**
+
+"Sebelum tampil di atas panggung, persiapan matang dan latihan rutin adalah kuncinya. Kami terus melatih dan mematangkan setiap lagu agar bisa memberikan aksi panggung terbaik untuk teman-teman semua!"
+
+**Language:** Bahasa umum yang inspiratif, mudah dipahami, dan komunikatif.
+
+**Repertoire:** Menyampaikan pesan secara ringkas dan membangun antusiasme publik.
+
+---
 
 ## Konteks performance
 
 **Tanggal dan setting:**  
-
-Sekitar masa persiapan penampilan musik di acara kampus. Saya melakukan latihan dan mengulik kembali lagu yang akan ditampilkan bersama teman-teman.
+Sekitar masa persiapan penampilan musik di acara kampus. Percakapan dilakukan secara langsung dan dilanjutkan via pesan teks dengan teman satu tim musik.
 
 **Persons dan relationship:**  
-
-Saya berkomunikasi dengan teman yang juga terlibat dalam persiapan penampilan musik.
+Saya berkomunikasi dengan teman sekelas sekaligus rekan tampil dalam band kampus yang hubungannya dekat dan terbuka.
 
 **Objective dan initial state:**  
+Tujuannya adalah menyamakan persepsi mengenai pentingnya mengulik lagu sebelum hari tampil dan menyusun rencana latihan bersama. Awalnya, kami masing-masing hanya berlatih secara parsial tanpa jadwal konfirmasi pemahaman yang jelas.
 
-Tujuannya adalah menjaga agar lagu yang akan ditampilkan tetap diingat dan tidak terlalu banyak bagian yang terlupakan saat hari tampil. Pada awalnya saya belum selalu mengulik lagu kembali secara rutin.
+---
 
 ## Evidence
 
 ::: {.evidence-block}
 
-Saat persiapan penampilan musik, salah satu teman bertanya kepada saya:
+Saat persiapan penampilan musik, saya membuka percakapan dengan teman sekelas yang menjadi pasangan tampil saya:
 
-> "Udah coba pelajarin kembali belum lagunya?"
+> **Saya:** "Lu udah sempat ngulik ulang lagu yang mau kita bawain nanti belum? Menurut gue kita perlu *drill* lagi bagian-bagian yang masih kagok biar pas tampil ga *blank*."
 
-Saya menjawab:
+Teman saya menanggapi sekaligus memberikan klarifikasi pemahaman masalah:
 
-> "Bisalah itu malam."
+> **Teman:** "Gue baru hapal chord dasarnya sih. Bagian intro sama outro yang agak beda tempo masih agak ragu."
 
-Namun, pada kenyataannya saya malah ketiduran sehingga tidak jadi mengulik lagu pada malam tersebut.
+Saya kemudian melakukan paraphrasing dan menawarkan rencana aksi konkret:
 
-Teman saya kemudian menjawab:
+> **Saya:** "Nah bener, bagian transisi itu emang rawan. Gimana kalau nanti malam jam 8 kita bedah bareng via Zoom? Fokus di transisi intro dan outro aja dulu."
 
-> "Oke."
+Teman saya memberikan **feedback spesifik dan kesepakatan tindakan**:
 
-Feedback tersebut menunjukkan bahwa teman menerima jawaban saya, tetapi belum memberikan feedback yang spesifik mengenai apakah pesan saya sudah dipahami atau belum.
+> **Teman:** "Setuju banget. Biar makin berasa, nanti sebelum Zoom gue bakal rekam dulu *take* gitar bagian intro gue, terus pas Zoom kita cocokkan bareng tempo-nya. Jadi besok pas gladi bersih tinggal eksekusi aja."
 
-Setelah kejadian tersebut, saya mulai lebih memperhatikan pentingnya mengulik kembali lagu. Saya kemudian selalu mencoba mengulang lagu setelah latihan agar bagian yang sudah dipelajari tetap diingat sampai hari penampilan.
+**Problem impact:** Jika lagu tidak diulik dan diselaraskan pada bagian transisi rumit (intro & outro), terdapat risiko besar tim timbul ketidaksinkronan tempo atau lupa bagian saat tampil di panggung.
 
-Kontribusi saya adalah melakukan latihan dan pengulangan lagu secara mandiri setelah sesi latihan bersama.
+**Constraint:** Waktu latihan tatap muka terbatas, sehingga dibutuhkan pembagian latihan mandiri dan sesi penyelarasan daring (*online review*).
+
+Kontribusi saya adalah menginisiasi komunikasi discovery, memformulasi *core meaning* pengulangan lagu, memvalidasi pemahaman spesifik dari teman, serta menyusun rencana aksi latihan terstruktur.
 
 :::
 
@@ -120,60 +134,55 @@ Kontribusi saya adalah melakukan latihan dan pengulangan lagu secara mandiri set
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Saya berkomunikasi dengan teman yang juga terlibat dalam penampilan musik. Karena hubungan kami sebagai teman, saya menggunakan bahasa yang santai dan tidak terlalu formal. |
-| Objective & state | Tujuan komunikasi adalah memastikan lagu tetap diingat sebelum hari tampil. Pada awalnya saya belum konsisten mengulang lagu sehingga ada kemungkinan beberapa bagian terlupakan. |
-| Repertoire & language | Saya menggunakan bahasa santai kepada teman. Ketika diadaptasikan kepada technical peer, manager, customer, dan public, pesan yang sama dibuat lebih spesifik, formal, sopan, atau umum sesuai targetnya. |
-| Response & adaptation | Awalnya saya mengatakan bahwa saya akan mengulik lagu pada malam hari, tetapi ternyata saya ketiduran. Setelah itu saya mengubah kebiasaan dengan lebih rutin mengulang lagu setelah latihan. |
-| Agreement & action | Percakapan awal belum menghasilkan kesepakatan khusus. Namun, setelah percakapan tersebut saya mengambil tindakan dengan mengulang lagu secara rutin setelah latihan. |
-| Relationship outcome | Hubungan dengan teman tetap baik. Percakapan tersebut juga membuat saya lebih sadar bahwa latihan ulang diperlukan untuk menjaga kesiapan sebelum tampil. |
+| Person & character | Saya berkomunikasi dengan teman tim musik menggunakan bahasa yang santai namun fokus pada tujuan. Hubungan yang dekat memudahkan diskusi terbuka tanpa kecanggok formalitas. |
+| Objective & state | Tujuan memastikan lagu diulik bersama dapat tercapai. Kondisi awal yang ragu di bagian transisi tempo berhasil diidentifikasi secara spesifik. |
+| Repertoire & language | Saya menyesuaikan register bahasa ke dalam 5 konteks. Pada target teman nyata, saya menggunakan bahasa kasual yang dikombinasikan dengan pertanyaan discovery dan usulan *action plan*. |
+| Response & adaptation | Saya merespons keraguan teman terkait bagian intro/outro dengan menawarkan sesi bedah lagu spesifik di malam hari, bukan sekadar menyuruh latihan sendiri. |
+| Agreement & action | Terjadi kesepakatan konkret (*action plan*): teman merekam bagian gitarnya sebelum jam 8 malam, dilanjutkan diskusi via Zoom untuk menyelaraskan tempo transisi. |
+| Relationship outcome | Komunikasi berjalan efektif, meningkatkan kepercayaan diri partner tampil, serta memperkuat koordinasi tim jelang hari penampilan. |
+
+---
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu menyusun dan mengadaptasi cara penyampaian pesan yang sama ke dalam lima konteks komunikasi.
+AI digunakan untuk membantu menyusun variasi bahasa dan merapikan struktur pengungkapan *core meaning* ke dalam lima target konteks komunikasi (Friend, Technical peer, Manager, Customer, dan Public).
 
-Core meaning tetap berasal dari pengalaman saya sendiri, yaitu pentingnya mengulang lagu sebelum hari tampil. AI hanya membantu menyusun variasi language dan repertoire untuk masing-masing target.
+Core meaning serta bukti interaksi percakapan riil tetap bersumber dari pengalaman nyata saya. Saya melakukan penyesuaian teks agar kalimat yang dihasilkan AI tetap natural dan sesuai dengan gaya komunikasi saya sehari-hari.
 
-Saya tetap memeriksa kembali hasilnya agar sesuai dengan pengalaman dan situasi yang sebenarnya terjadi.
+---
 
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:**  
-
-Dalam percakapan awal, teman bertanya apakah saya sudah mempelajari kembali lagu. Saya menjawab bahwa saya akan melakukannya malam itu, kemudian teman menjawab, "Oke."
-
-Feedback tersebut menunjukkan bahwa teman menerima jawaban saya, tetapi belum terdapat feedback yang lebih spesifik mengenai pemahaman pesan atau rencana latihan bersama.
+Teman memberikan feedback spesifik bahwa ia sudah memahami struktur dasar lagu, namun mengidentifikasi bagian transisi tempo (intro dan outro) sebagai titik lemah yang berisiko jika tidak dilatih ulang.
 
 **Adaptation/replay:**  
-
-Setelah menyadari bahwa mengatakan akan mengulik lagu saja tidak cukup jika tidak benar-benar dilakukan, saya mulai lebih rutin mengulang lagu setelah latihan.
-
-Untuk replay, saya akan menyampaikan pesan dengan lebih jelas dan sekaligus meminta feedback dari teman:
-
-> "Aku bakal ulang lagu ini lagi setelah latihan supaya bagian yang aku mainkan tetap ingat sebelum hari H. Kalau ada bagian yang menurutmu masih kurang, kasih tahu ya."
-
-Dengan cara tersebut, saya dapat mengetahui apakah pesan saya dipahami dengan benar dan membuka kesempatan bagi teman untuk memberikan feedback.
+Berdasarkan feedback tersebut, saya beradaptasi dari yang awalnya hanya mengusulkan "latihan ulang secara umum" menjadi "latihan terfokus pada bagian transisi intro dan outro".
 
 **Next practice:**  
+Ke depannya, saya akan selalu menggabungkan pesan pengingat dengan pertanyaan klarifikasi teknis dan usulan rencana aksi yang berbatas waktu (*time-bound action plan*), sehingga komunikasi selalu berujung pada tindakan nyata bersama.
 
-Saya akan membiasakan diri menyampaikan rencana secara lebih jelas dan meminta feedback secara langsung. Saya juga akan mencoba membuat rencana latihan yang lebih konkret bersama teman agar tidak hanya mengandalkan niat untuk belajar nanti.
+---
 
 ## Refleksi
 
-Dari pengalaman ini, saya menyadari bahwa menyampaikan pesan yang benar belum tentu cukup untuk memastikan komunikasi berhasil. Pada percakapan awal, teman hanya menjawab "Oke", sehingga saya belum memiliki bukti yang kuat bahwa terdapat pemahaman dan rencana aksi bersama.
+Melalui tugas ini, saya belajar bahwa mengadaptasi bahasa sesuai target (*repertoire adaptation*) tidak hanya soal mengubah kosa kata menjadi formal atau santai, tetapi juga menyesuaikan sudut pandang dan kebutuhan dari pendengar.
 
-Saya sudah mampu mempertahankan core meaning ketika menyesuaikan bahasa untuk lima target yang berbeda. Namun, saya masih perlu meningkatkan kemampuan untuk meminta feedback dan memastikan adanya action yang dipahami bersama.
+Selain itu, saya menyadari pentingnya meminta feedback spesifik dan menyetujui *action plan*. Komunikasi yang efektif tidak berhenti saat pesan tersampaikan, melainkan saat kedua belah pihak memiliki pemahaman yang sama dan berkomitmen melakukan langkah nyata bersama.
+
+---
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 – Kompeten | Saya menyesuaikan cara berbicara dengan teman menggunakan bahasa yang santai dan sesuai dengan hubungan kami. |
-| Objective & State | 3 – Kompeten | Saya memahami bahwa tujuan mengulang lagu adalah menjaga agar bagian lagu tetap diingat sebelum hari tampil. Saya juga menyadari kondisi awal saya yang belum konsisten mengulang lagu. |
-| Repertoire, Language & AI | 3 – Kompeten | Saya dapat mempertahankan core meaning yang sama tentang pentingnya mengulang lagu, lalu menyesuaikan cara penyampaiannya berdasarkan target komunikasi yang berbeda. |
-| Response & Adaptation | 2 – Berkembang | Pada awalnya saya mengatakan akan mengulik lagu pada malam hari, tetapi ternyata saya ketiduran. Setelah menyadari hal tersebut, saya mulai lebih rutin mengulang lagu setelah latihan. Prinsip adaptasi sudah terlihat, tetapi belum sepenuhnya konsisten. |
-| Agreement, Action & Relationship | 2 – Berkembang | Hubungan dengan teman tetap baik dan saya melakukan tindakan dengan mengulang lagu setelah latihan, tetapi percakapan awal belum menghasilkan feedback spesifik atau kesepakatan tindakan bersama yang jelas. |
+| Person & Character | 3 – Kompeten | Saya menyesuaikan gaya komunikasi dengan teman sekelas secara akrab, santai, dan komunikatif. |
+| Objective & State | 3 – Kompeten | Saya berhasil mengidentifikasi kebutuhan latihan ulang dan membantu partner memetakan bagian lagu yang masih belum dikuasai. |
+| Repertoire, Language & AI | 4 – Sangat Kompeten | Saya berhasil menerjemahkan satu *core meaning* ke dalam 5 versi bahasa dengan *tone* dan *repertoire* yang sangat tepat untuk masing-masing target. |
+| Response & Adaptation | 3 – Kompeten | Saya beradaptasi secara cepat terhadap feedback teknis teman dengan menggeser fokus latihan ke bagian transisi intro/outro. |
+| Agreement, Action & Relationship | 3 – Kompeten | Menghasilkan kesepakatan latihan Zoom jam 8 malam, pembuatan rekaman mandiri, dan meningkatkan kesiapan performa tim. |
 
-**Total:** 13 / 20
+**Total:** 15 / 20
 
 ::: {.assessor-only}
 
@@ -183,7 +192,7 @@ Saya sudah mampu mempertahankan core meaning ketika menyesuaikan bahasa untuk li
 
 **Evidence yang mendukung:** —  
 
-**Prioritas perbaikan:** Melakukan simulasi atau percakapan dengan target nyata untuk memperoleh feedback spesifik mengenai pemahaman pesan dan rencana action bersama.
+**Prioritas perbaikan:** —  
 
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 
