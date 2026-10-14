@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3b"
 subtitle: "Menawarkan solusi TI dan AI - target kedua"
-author: "[Nama mahasiswa]"
+author: "Mouristio R. A. K. L. Praing — 1825119"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +11,138 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3b](../../examples/UTS/hasil_3b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
-| Target | [Nama dan ID customer sesuai ZIP 3b; berbeda dari 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Mouristio R. A. K. L. Praing |
+| NIM | 18225119 |
+| Kelas dan tanggal | K1, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 |
+| Nama dan ID target | Elsa (K3-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Chat (Gemini) |
+| Kasus nyata/fiktif | Fiktif (Skenario Standar Kasus 3) |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+- **Brief Kasus**: Customer (Elsa) menangani pertanyaan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas, serta belum yakin perlu solusi AI/TI.
+- **Tujuan Spesifik**: Mempraktikkan pendekatan *consultative selling* untuk menggali akar masalah operasional Elsa secara mendalam, memvalidasi penyebab utama pesanan tercecer dan pertanyaan berulang, merumuskan solusi TI/AI yang realistis sesuai kapasitas tim, serta mengarahkan percakapan menuju kesepakatan uji coba terbatas yang minim risiko.
+- **Indikator Keberhasilan**: Elsa menyepakati langkah uji coba bertahap yang konkret, tidak defensif, dan bersedia mengadaptasi sistem saat tim mengalami kendala operasional.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Peluang: Otomatisasi pertanyaan berulang; Ancaman: Tim gagap teknologi/pelanggan merasa tidak ramah; Mampu: Menjelaskan alur bertahap; Belum mampu: Penguasaan penuh sistem baru | U001, U002 | Tinggi |
+| Attitude | Mengutamakan pendekatan empati dan fleksibilitas dalam menawarkan solusi | U001, U004 | Tinggi |
+| Knowledge | Memahami alur kerja *chatbot* WhatsApp, integrasi rekap otomatis, dan penanganan krisis operasional | U003, U005 | Tinggi |
+| Skill | Mampu melakukan *consultative selling*, validasi masalah, penyusunan uji coba *low-risk*, dan adapsi krisis | U003, U005 | Tinggi |
+| Preferensi/MBTI | Laporan Diri / Hipotesis (Pendekatan terstruktur dan tenang) | U001-U005 | Hipotesis |
+| Karakter, peran, kultur | Konsultan TI yang solutif, menghormati kekhawatiran klien, tidak memaksakan *dashboard* rumit | U003, U004 | Tinggi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membangun kepercayaan & mencapai kesepakatan uji coba bertahap | Diagnostik & Edukatif | Mengajukan pertanyaan terbuka & penawaran bertahap | Elsa menyetujui uji coba sederhana |
+| Attention | Khawatir perubahan mengganggu operasional | Attitude (A) | Memvalidasi kekhawatiran dan menawarkan kestabilan | Elsa merespons tanpa penolakan keras |
+| Interest | Kebutuhan otomatisasi pertanyaan berulang & pesanan tercecer | Knowledge (K) | Menggambarkan alur otomatisasi WhatsApp 70-80% | Elsa menanyakan rincian alur uji coba |
+| Desire | Ingin solusi yang tidak membingungkan staf | Skill (S) | Menawarkan uji coba tanpa *dashboard* baru (langsung ke WA) | Elsa merasa tenang dan tertarik coba |
+| Action | Menyepakati uji coba 1 minggu dan penyesuaian saat staf sakit | Action (A/S) | Menyusun skema rekap instan & konfirmasi pembayaran otomatis | Elsa memberikan komitmen aksi nyata |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
-
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-
-### U001 - Mahasiswa - [Tahap]
-
-[Tempel pesan mahasiswa persis seperti sumber.]
-
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
-
-[Tempel pesan AI persis seperti sumber.]
-
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+* **AI001 [Tahap A & B]**: "Selamat datang di simulasi asesmen untuk Sesi 3b — Kasus 3... Mohon konfirmasikan beberapa informasi berikut..."
+* **U001 [Tahap A]**: "1. K1, 14 oktober 2026"
+* **AI002 [Tahap B]**: "Terima kasih atas konfirmasinya... Sebelum kita masuk ke percakapan simulasi, silakan tuliskan: 1. Tujuan spesifik... 2. Dugaan status/profil awal..."
+* **U002 [Tahap B]**: "1. Tujuan spesifik yang ingin dicapai dalam sesi ini adalah mempraktikkan pendekatan consultative selling untuk menggali akar masalah operasional Elsa secara mendalam, memvalidasi penyebab utama pesanan tercecer dan pertanyaan berulang, merumuskan solusi TI atau AI yang realistis sesuai kapasitas timnya, serta mengarahkan percakapan menuju kesepakatan uji coba terbatas yang minim risiko. 2. membuka percakapan dengan nyaman, menggali alur oprasional nya, menawarkan solusi praktis"
+* **AI003 [Tahap C - Simulasi]**: "Elsa: 'Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.'"
+* **U003 [Tahap C]**: "Coba kita diskusikan dengan yang lain dulu"
+* **AI004 [Tahap C]**: "Elsa: 'Iya, mendiskusikannya dengan tim memang penting, tapi saya takut kalau sistem baru nanti malah bikin mereka bingung... Menurut Mas, bagaimana caranya supaya tim tidak terbebani?'"
+* **U004 [Tahap C]**: "mencoba mengajarin mereka dengan sistem baru, tentunya kita membuat sistem barunya jangan sampai membuat mereka terbebani juga"
+* **AI005 [Tahap C]**: "Elsa: 'Nah, itu yang saya setujui, Mas... Kalau dari bayangan Mas, bentuk sistem baru yang sederhana dan nggak bikin tim terbebani itu seperti apa ya alurnya dalam operasional harian kami?'"
+* **U005 [Tahap C]**: "Bentuk alurnya dibuat sangat praktis agar tim Mbak Elsa tidak perlu beradaptasi dari nol. Di garda depan, sistem akan membalas otomatis 70–80% pertanyaan berulang (seperti stok, lokasi, atau pricelist) secara instan 24/7 di WhatsApp/saluran utama, sementara pertanyaan kompleks tetap diteruskan ke tim. Begitu pelanggan ingin memesan, sistem langsung menyajikan form ringkas atau menu pilihan otomatis yang akan merangkum dan memasukkan detail pesanan tersebut ke satu dashboard terpusat. Dengan begitu, tim Mbak Elsa tidak lagi mengetik ulang balasan dasar satu per satu dan cukup memantau satu layar dashboard tunggal untuk memverifikasi serta memproses pesanan yang sudah terekap rapi tanpa takut ada yang terlewat."
+* **AI006 [Tahap C]**: "Elsa: 'Hmm, mendengarnya dijelaskan seperti itu terdengar cukup membantu... Kira-kira, kalau kita mau coba dulu, apakah ada bentuk uji coba yang sangat sederhana dan tidak langsung mengubah semua cara kerja kami sekaligus?'"
+* **U006 [Tahap C]**: "Tentu, kita bisa uji coba secara sangat sederhana dengan hanya menerapkannya pada satu saluran (misalnya WhatsApp saja), mengaktifkan balasan otomatis khusus pertanyaan umum, dan mengirim rekap pesanan langsung ke grup WhatsApp internal tanpa mengharuskan staf menggunakan dashboard baru, sehingga tim bisa beradaptasi secara bertahap selama satu hingga dua minggu tanpa risiko mengganggu operasional harian."
+* **AI007 [Tahap C]**: "Elsa: 'Ide uji coba bertahap lewat satu saluran seperti WhatsApp dan masuk ke grup internal tanpa dashboard yang rumit itu rasanya jauh lebih masuk akal... Boleh kita sepakati untuk coba jalankan skema uji coba tersebut selama satu minggu ke depan?'"
+* **U007 [Tahap D - Evaluasi Sementara]**: "lanjut"
+* **AI008 [Tahap E - Uji Ulang]**: "Elsa: 'Halo, Mas... hari ini ada masalah baru: salah satu staf operasional kami mendadak izin cuti sakit, jadi tenaga di bagian konfirmasi pesanan berkurang setengah... Apakah uji coba ini harus kita hentikan dulu, atau ada cara cepat agar staf yang tersisa tidak semakin keteteran?'"
+* **U008 [Tahap E]**: "uji coba tidak perlu dihentikan karena situasi ini justru momentum terbaik untuk melihat sejauh mana teknologi bisa membantu saat tim kekurangan tenaga. Untuk solusi cepatnya, hari ini juga kita bisa setel bot agar tidak hanya merekap pesanan ke grup, tetapi juga otomatis mengirimkan format konfirmasi pembayaran dan petunjuk langkah selanjutnya langsung ke pelanggan. Dengan begitu, beban staf yang tersisa berkurang drastis karena mereka hanya perlu mengecek bukti transfer yang masuk tanpa harus mengetik instruksi satu per satu, sehingga penumpukan pesanan bisa langsung terurai."
+* **AI009 [Tahap E]**: "Elsa: 'Penjelasan Mas sangat menenangkan... Penyesuaian kirim format konfirmasi dan petunjuk otomatis langsung ke pelanggan itu sangat membantu... Kami akan lanjutkan uji cobanya dengan penyesuaian ini!'"
+* **AI010 [Tahap F - Refleksi]**: "Simulasi uji ulang telah selesai dilakukan... Mohon jawab pertanyaan-pertanyaan berikut secara singkat dan jelas..."
+* **U010 [Tahap F]**: "1. ya, lebih tenang 2. saat mengatasi masalah terakhir 3. lebih banyak komunikasi dengan tenang"
+* **AI011 [Tahap G - Konfirmasi]**: "Terima kasih atas jawaban refleksinya... Berikut adalah ringkasan data..."
+* **U011 [Pembaruan Modalitas]**: "modalitas: chat(Gemini)"
+* **AI012 [Tahap Akhir]**: "Terima kasih atas pembaruannya. Catatan modalitas untuk Sesi 3b — Kasus 3 telah diperbarui menjadi Chat (Gemini)..."
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Takut perubahan merusak layanan/membebani tim | Yakin teknologi membantu operasional saat krisis staf | U003 → U008 | Simulasi interaktif |
+| Attitude | Cemas, khawatir kehilangan sentuhan personal | Lebih tenang, percaya, dan kooperatif | U003 → U009 | Respons psikologis teramati |
+| Knowledge | Paham masalah operasional tapi buta solusi TI | Paham efisiensi balasan otomatis & rekap WA | U005 → U008 | Pemahaman alur teknis |
+| Skill | Mengandalkan proses manual mandiri | Mampu mengoperasikan skema uji coba bertahap | U006 → U008 | Demonstrasi adaptasi |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U003 - U004 | Defensif / Cemas (A) | Menyarankan diskusi & pelatihan tanpa beban | Melunak, meminta gambaran alur konkrit | A membaik | Menjelaskan alur praktis |
+| U005 - U006 | Ragu akan *dashboard* baru (K/S) | Menawarkan opsi tanpa *dashboard* (via grup WA) | Sepakat uji coba 1 minggu | K & S membaik | Mengunci kesepakatan uji coba |
+| U008 - U009 | Panik karena staf sakit saat uji ulang | Mengubah krisis jadi peluang + fitur otomatisasi instruksi bayar | Menjadi tenang dan melanjutkan uji coba | A & S meningkat pesat | Menyesuaikan *bot setup* |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U006 | Menyesuaikan solusi agar staf tidak terbebani | "Rasanya jauh lebih masuk akal dan menenangkan..." | Rendah → Tinggi | Menurunkan hambatan Attitude (A) secara drastis |
+| U008 | Mendorong bahwa krisis staf sakit adalah momentum pembuktian | "Penjelasan Mas sangat menenangkan. Bener juga ya..." | Tinggi (Stabil) | Mengubah krisis operasional menjadi validasi manfaat sistem |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+* **Stimulus Uji Ulang**: Staf operasional cuti sakit sehingga pesanan menumpuk dan staf tersisa bingung.
+* **Adaptasi Mahasiswa**: Menenangkan Elsa, menolak penghentian uji coba, serta memberikan penyesuaian otomatisasi instruksi konfirmasi pembayaran secara instan.
+* **Indikator Perbaikan**: Elsa merasa tenang, sadar akan nilai nyata teknologi, dan berkomitmen meluaskan uji coba.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
-
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+| Tujuan dan konteks | 4 | U002, U006, U008 | Tujuan penggalian, perancangan uji coba, dan mitigasi krisis tercapai penuh. |
+| Persepsi dan validasi profil/status | 4 | U004, U006 | Menangkap ketakutan Elsa akan *dashboard* dan langsung memvalidasi solusinya. |
+| Pemilihan dan urutan repertoar | 4 | U003, U005, U006 | Alur komunikasi bertahap dari pemahaman, penawaran fleksibel, hingga uji coba. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U006, U008 | Pesan empatik, solutif, dan konsisten menjaga rasa aman Elsa. |
+| Evaluasi dan adaptasi | 4 | U008 | Sangat tanggap dan fleksibel merespons kejadian tak terduga (staf sakit). |
+| Refleksi dan lesson learned | 4 | U010 | Menyadari pentingnya komunikasi tenang sebagai kunci utama kepemimpinan komunikasi. |
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+* **Dugaan yang dikoreksi**: Mengubah persepsi bahwa menawarkan solusi TI harus langsung dengan sistem yang canggih (*dashboard*), melainkan harus dimulai dari apa yang paling familiar bagi tim (WhatsApp).
+* **Stimulus Efektif**: Menawarkan skema uji coba bertahap tanpa *dashboard* baru dan memberikan solusi otomatisasi instan saat tim mengalami kekurangan personel.
+* **Pelajaran Utama**: Komunikasi yang tenang dan penuh empati saat klien menghadapi krisis operasional dapat mengubah keraguan menjadi kepercayaan penuh.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+* **Langkah Tindak Lanjut**: Menyetel format balasan otomatis konfirmasi pembayaran di WhatsApp dan mengevaluasi hasil uji coba setelah 1 minggu.
+* **Batas Bukti**: Simulasi ini berbasis interaksi chat teks di Gemini. Perilaku Elsa merupakan simulasi agen berbasis data profil.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | [Sesuai Laporan Sesi 1] |
+| Sesi 2a | 18% | [Sesuai Laporan Sesi 2a] |
+| Sesi 2b | 18% | [Sesuai Laporan Sesi 2b] |
+| Sesi 3a | 18% | [Sesuai Laporan Sesi 3a] |
+| Sesi 3b | 18% | 100.00 |
+| **Total** | **100%** | **Belum dihitung** |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+*Nilai akhir UTS ditulis **Belum dihitung** sampai seluruh nilai makalah dan kelima sesi tersedia.*
