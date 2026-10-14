@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3a"
 subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+author: "Mouristio R. A. K. L. Praing"
 lang: id
-status: "Belum dimulai"
+status: "Siap dinilai"
 format:
   html:
     toc: true
@@ -11,154 +11,204 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Mouristio R. A. K. L. Praing |
+| NIM | 18225119 |
+| Kelas dan tanggal | K1 — 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Budi (K3-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dari `kasus_3a_18225119.zip` |
+| Modalitas | Simulasi teks dengan ChatGPT; bukan transkripsi suara |
+| Kasus nyata/fiktif | Kasus dan tokoh Budi adalah simulasi fiktif |
+| Kelengkapan transkrip | Transkrip di bawah merangkum giliran yang tampak pada percakapan sesi ini. Tidak ada rekaman prosodi/nonverbal. Nomor giliran merupakan penanda editorial. |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Kasus ini menempatkan mahasiswa sebagai komunikator yang menawarkan solusi TI/AI kepada customer bernama Budi, pengelola usaha yang nyaman dengan cara kerja lama. Tantangannya bukan sekadar menjelaskan fitur, melainkan menggali kebutuhan, menanggapi kekhawatiran biaya dan perubahan, serta merancang langkah berikutnya yang realistis. Brief umum menyebut pertanyaan pelanggan berulang dan pesanan tercecer; sepanjang simulasi, percakapan berkembang dan prioritas yang ditemukan dalam peran Budi adalah keterlambatan pasokan bahan baku.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan mahasiswa yang dinyatakan sebelum simulasi: menjaga hubungan baik, melancarkan komunikasi, dan mendiskusikan cara kerja yang efektif. Dugaan awalnya, customer khawatir tim kesulitan beradaptasi. Rencana awal adalah menghargai cara kerja yang sudah berjalan sambil memberikan solusi yang mungkin lebih efisien.
+
+Indikator keberhasilan yang muncul selama percakapan meliputi: kebutuhan customer tergali; pilihan tidak dipaksakan; kriteria uji coba terukur; risiko, privasi dan biaya dibahas; dan langkah berikutnya disepakati. Dalam simulasi ulang, indikator tambahannya adalah kesesuaian solusi dengan prioritas operasional yang sebenarnya.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Mahasiswa ingin menjaga hubungan dan mencari cara kerja lebih efektif; menduga hambatan utama adalah adaptasi tim | U001–U002 | Laporan/dugaan mahasiswa |
+| Attitude | Menghargai cara kerja customer dan terbuka pada diskusi | U002 | Teramati dalam pernyataan awal |
+| Knowledge | Mengenali manfaat umum efisiensi dan pengurangan human error; belum langsung menggali proses bisnis secara mendalam | U003, U005–U008; refleksi U014 | Interpretasi dari respons teks |
+| Skill | Mampu menyusun uji coba bertahap, metrik, dan perlindungan data; pada simulasi awal cenderung cepat menawarkan solusi | U004–U010; refleksi U014 | Ditunjukkan dalam teks |
+| Preferensi/MBTI jika dilaporkan | Tidak ada laporan MBTI mahasiswa yang relevan dalam sesi ini | — | Tidak dinilai |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa memosisikan diri sebagai pihak yang ingin berdiskusi, bukan memaksakan perubahan | U001–U002, U010 | Laporan diri dan perilaku teks |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Sebelum simulasi, mahasiswa memperkirakan Budi khawatir terhadap kesulitan adaptasi tim. Ini dugaan awal, bukan fakta yang telah tervalidasi. Mahasiswa ingin menjaga hubungan dan menjelaskan manfaat efisiensi. Setelah simulasi, profil internal tokoh yang diperankan diringkas pada bagian D dan dipisahkan dari dugaan awal.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menemukan solusi yang sesuai kebutuhan customer, dengan keputusan/uji coba konkret | Memahami kebutuhan dan kesiapan sebelum menyarankan alat | Menjaga dialog dua arah dan menghormati keputusan customer | Prioritas bisnis dan langkah berikutnya teridentifikasi |
+| Attention | Budi nyaman dengan prosedur lama | A: akui kekhawatiran perubahan | Pertanyaan terbuka tentang pengalaman | Customer bersedia menjelaskan masalah |
+| Interest | Manfaat belum dianggap perlu | K: hubungkan manfaat dengan masalah nyata | Klarifikasi frekuensi, dampak dan proses saat ini | Masalah prioritas ditemukan |
+| Desire | Risiko biaya/gangguan dapat menghambat | A/K: bahas biaya, risiko, dan pilihan sederhana | Bandingkan opsi dan batasnya secara transparan | Customer mempertimbangkan opsi tanpa dipaksa |
+| Action | Perlu langkah yang jelas dan berisiko rendah | S: rencana, penanggung jawab, metrik dan evaluasi | Pilot kecil, prosedur cadangan, evaluasi bersama | Cakupan, waktu, tanggung jawab, dukungan dan indikator disepakati |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Catatan:** berikut catatan giliran dari percakapan aktual yang tersedia dalam konteks. Kutipan pengguna dipertahankan sedekat mungkin dengan teks yang tampil; beberapa giliran asisten diringkas bila berupa instruksi fasilitasi. Ini bukan log teknis lengkap platform. Tidak ada giliran yang sengaja ditambahkan sebagai percakapan simulasi yang tidak terjadi.
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+## Identifikasi dan perencanaan
 
-### U001 - Mahasiswa - [Tahap]
+| ID | Tahap | Giliran |
+|---|---|---|
+| U001 | Identifikasi/konfirmasi | Mahasiswa mengonfirmasi data identitas dan kasus: “bener banget”. Identitas laporan: Mouristio R. A. K. L. Praing, NIM 18225119, kelas K1, tanggal 14 Oktober 2026, modalitas teks. |
+| U002 | Tujuan dan dugaan awal | “1. Menjaga hubungan tetap baik, komunikasi dengan lancar, dan juga mendiskusikan cara kerja yang efektif 2. kahawatir tentang kesulitan tim 3. mengapresiasi cara kerjanya namun juga memberikan solusi yang mungkin lebi efisien” |
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+## Simulasi awal
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+| ID | Tahap | Giliran |
+|---|---|---|
+| AI001 | Simulasi awal | Budi menyampaikan bahwa ia sudah memakai cara yang sama bertahun-tahun dan khawatir sistem TI/AI menyulitkan tim. Budi bertanya manfaat nyata apa yang didapat. |
+| U003 | Simulasi awal | “1. menghemat waktu 2. mengurangi human error 3. adaptasi ringan” |
+| AI002 | Simulasi awal | Budi meminta penjelasan tentang adaptasi ringan dan bertanya apakah seluruh cara kerja harus langsung diganti. |
+| U004 | Simulasi awal | “maksud dari adaptasi ringan adalah taanpa mengganti sistem utama, mulai dari uji coba kecil dulu aja, menggunakan sesuatu yang sudah familiar, evaluasi bersama” |
+| AI003 | Simulasi awal | Budi bertanya bagaimana jika uji coba tidak sesuai harapan atau memperlambat pekerjaan, serta siapa yang mendampingi evaluasi. |
+| U005 | Simulasi awal | “Tim kami yang akan mendampingi dan mengevaluuasi penuh dengan anda. Sebelum uji coba skala kecil dimulai, kita akan menentukan kriteria keberhasilan yang jelas dan terukur terlebih dahulu, seperti target pemangkasan waktu kerja atau kemudahan penggunaan bagi tim.” |
+| AI004 | Simulasi awal | Budi menekankan bahwa pekerjaan harus tetap berjalan dan bertanya bagaimana uji coba diatur serta bagaimana membantu anggota tim yang tidak nyaman. |
+| U006 | Simulasi awal | Mahasiswa mengusulkan *shadowing method*: tim customer tetap bekerja dengan cara lama, sementara tim mahasiswa memasukkan data ke sistem baru di belakang layar untuk menguji akurasi. Setelah stabil, akses diberikan bertahap pada satu atau dua tugas kecil; anggota yang kesulitan mendapat pendampingan *one-on-one*. |
+| AI005 | Simulasi awal | Budi menerima pendekatan tersebut secara terbatas lalu menanyakan keamanan data, kerahasiaan, dan penggunaan data di luar kepentingan usaha. |
+| U007 | Simulasi awal | Mahasiswa menyatakan kekhawatiran kerahasiaan wajar, terutama untuk data operasional dan keuangan, serta menyatakan data tetap milik customer dan tidak akan dijual. |
+| AI006 | Simulasi awal | Budi meminta langkah konkret tentang pembatasan akses dan prosedur jika terjadi masalah keamanan. |
+| U008 | Simulasi awal | “1. Pembatasan hak akses 2. Persetujuan Penggunaan Data 3. Prosedur Penanganan Insiden Dengan batasan dan prosedur yang transparan ini, kami ingin memastikan bahwa kolaborasi uji coba ini dibangun di atas fondasi kepercayaan dan akuntabilitas yang jelas.” |
+| AI007 | Simulasi awal | Budi bertanya bagaimana menentukan uji coba diteruskan atau dihentikan. |
+| U009 | Simulasi awal | Mahasiswa menjelaskan evaluasi setelah dua minggu, membandingkan waktu proses dan tingkat kesalahan, mengumpulkan umpan balik tim, dan menegaskan keputusan akhir ada pada Budi. Jika manfaat belum sebanding, uji coba dapat dihentikan. |
+| AI008 | Simulasi awal | Budi mengangkat kendala anggaran dan bertanya bagaimana memulai tanpa investasi besar serta menilai kesepadanan biaya dan hasil. |
+| U010 | Simulasi awal | Mahasiswa menyatakan uji coba tidak memerlukan biaya lisensi/investasi mahal, menyebut alat gratis/open-source dan perangkat yang sudah dimiliki, serta mengusulkan pengukuran jam kerja yang dihemat dan hak untuk menghentikan uji coba. |
+| AI009 | Evaluasi sementara | Fasilitator merangkum kekuatan awal: empati terhadap kekhawatiran, solusi bertahap, komunikasi kolaboratif, dan orientasi hasil. Catatan perbaikan: jangan menjamin biaya nol sebelum memeriksa kebutuhan lisensi, pemeliharaan dan implementasi. |
+| U011 | Refleksi sementara | “terlalu cepat ke solusi teknis” |
 
-[Tempel pesan AI persis seperti sumber.]
+## Uji ulang
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+| ID | Tahap | Giliran |
+|---|---|---|
+| AI010 | Uji ulang | Budi menyatakan pencatatan manual masih berjalan, sesekali terlambat, dan ia khawatir perubahan membuat pekerjaan lebih rumit. Fasilitator meminta mahasiswa menggali kebutuhan sebelum menawarkan solusi. |
+| U012 | Uji ulang | Mahasiswa menanyakan dampak keterlambatan pencatatan terhadap tim/pelanggan dan bagian proses manual yang paling menguras energi atau perhatian. |
+| AI011 | Uji ulang | Budi menjelaskan bahwa catatan tercecer atau angka perlu diperiksa ulang, tetapi masalah tidak terjadi setiap hari. |
+| U013 | Uji ulang | Mahasiswa menggali apakah masalah mengganggu pelanggan atau keputusan bisnis dan menanyakan tantangan operasional yang lebih krusial. |
+| AI012 | Uji ulang | Budi mengungkap bahwa keterlambatan pasokan bahan baku lebih mengganggu, karena menghambat tim dan membuat pelanggan menunggu. |
+| U014 | Uji ulang | Mahasiswa bertanya tentang alur pemantauan pasokan, penyebab keterlambatan, serta dampak yang paling ingin dikurangi. |
+| AI013 | Uji ulang | Budi menjelaskan bahwa pemasok kadang terlambat memberi kabar, tim juga terlambat menyadari stok menipis, dan pemantauan masih manual melalui pemeriksaan stok serta WhatsApp. Budi ingin menghindari kehabisan stok mendadak tanpa menyimpan terlalu banyak barang. |
+| U015 | Uji ulang | Mahasiswa menanyakan cara menentukan batas minimum stok dan seberapa sering kehabisan stok terjadi. |
+| AI014 | Uji ulang | Budi menjelaskan belum ada batas minimum baku, perkiraan kehabisan stok dua atau tiga kali sebulan, tetapi angka itu belum pasti. Ia tidak ingin menambah beban pencatatan. |
+| U016 | Uji ulang | Mahasiswa mengusulkan mulai dari penanda batas minimum stok bahan baku utama, menggunakan tanda visual atau otomatisasi dasar, bukan langsung AI kompleks, lalu menanyakan apakah pendekatan tersebut masuk akal. |
+| AI015 | Uji ulang | Budi menerima kemungkinan pendekatan sederhana dan meminta cara menentukan angka yang tidak hanya berdasarkan perkiraan, mengingat waktu kedatangan pasokan tidak menentu dan modal tidak boleh terlalu tertahan. |
+| U017 | Uji ulang | Mahasiswa mengusulkan penggunaan rata-rata pemakaian harian, riwayat waktu pengiriman terlama, dan cadangan aman untuk menentukan titik pemesanan ulang. Ia mengakui cara ini tidak menjamin kehabisan stok hilang sepenuhnya dan mengusulkan uji coba dua minggu serta evaluasi bersama. |
+| AI016 | Uji ulang | Budi menyatakan pendekatan itu rasional dan meminta kesepakatan tentang pengumpulan data, pencatatan sederhana, dan waktu evaluasi. |
+| U018 | Refleksi akhir | Mahasiswa menyatakan simulasi awal terburu-buru menawarkan solusi teknis/AI, sedangkan simulasi ulang memprioritaskan pertanyaan terbuka hingga menemukan keterlambatan pasokan sebagai prioritas. Mahasiswa belajar bahwa teknologi adalah alat; kebutuhan operasional, anggaran dan preferensi pengguna harus dipahami lebih dahulu. Perbaikan berikutnya: menggali data kuantitatif seperti waktu pengiriman dan perkiraan kerugian lebih awal. |
+| AI017 | Konfirmasi akhir | Fasilitator merangkum perkembangan dan meminta konfirmasi identitas serta format laporan. |
+| U019 | Konfirmasi akhir | “ya” — mahasiswa mengonfirmasi identitas dan format laporan yang diajukan. |
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Hasil tujuan: sebagian besar tercapai pada tingkat percakapan simulasi.** Mahasiswa berhasil bergerak dari menjelaskan manfaat umum TI/AI ke menggali masalah operasional yang lebih prioritas bagi Budi. Namun, belum ada implementasi nyata, data bisnis terverifikasi, atau pengukuran hasil di luar simulasi.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Dugaan awal: hambatan utama adalah adaptasi tim; customer nyaman dengan cara lama | Dalam simulasi, ditemukan kebutuhan lebih prioritas berupa keterlambatan pasokan, stok minimum yang belum baku, dan keterbatasan pencatatan | U002, U012–U018 | Dugaan awal dibandingkan dengan informasi yang muncul dalam peran; profil tokoh fiktif |
+| Attitude | Ingin menjaga hubungan dan memberi solusi efisien | Lebih sadar pentingnya mendengar kebutuhan sebelum mengarahkan solusi; menghormati kendali customer | U002, U009, U011, U018 | Laporan diri dan demonstrasi percakapan teks |
+| Knowledge | Menyebut penghematan waktu dan pengurangan human error sebagai manfaat umum | Menjelaskan kriteria uji coba, pengamanan data, evaluasi, dan prinsip dasar *reorder point* | U003, U005, U008–U010, U017 | Penjelasan dalam simulasi; belum diuji melalui implementasi |
+| Skill | Pada awalnya cepat menawarkan solusi teknis | Pada uji ulang mengajukan pertanyaan terbuka, menemukan prioritas baru, dan mengusulkan perbaikan sederhana yang relevan | U012–U017 | Demonstrasi percakapan teks; bukan bukti kinerja lapangan |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Simulasi awal U003–U004 | Budi masih khawatir tentang gangguan kerja | Menjelaskan manfaat dan adaptasi ringan melalui uji coba | Budi meminta penjelasan lebih konkret tentang proses adaptasi | K: manfaat umum belum menjawab seluruh kekhawatiran | Mahasiswa menjelaskan uji coba kecil, sistem lama tetap berjalan, dan evaluasi bersama |
+| U005–U006 | Budi masih memerlukan prosedur yang menjaga operasional | Menawarkan kriteria keberhasilan dan *shadowing* serta pendampingan individual | Budi mempertimbangkan pendekatan, lalu bertanya tentang keamanan data | A tampak lebih terbuka dalam simulasi, sedangkan K/S masih memerlukan detail | Mahasiswa menanggapi kekhawatiran data dengan kebijakan akses dan prosedur |
+| U007–U010 | Budi menginginkan kepastian data dan biaya | Menyebut kepemilikan data, pembatasan akses, persetujuan, penanganan insiden, dan metrik uji coba | Budi bertanya lanjut soal keamanan, keputusan lanjut/henti, lalu biaya | Ada keterbukaan bertahap; hambatan biaya tetap perlu diperiksa | Mahasiswa menawarkan evaluasi, tetapi klaim “tidak ada biaya” terlalu pasti tanpa verifikasi biaya aktual |
+| U011–U013 | Mahasiswa menyadari pendekatan awal terlalu cepat ke solusi | Pada uji ulang, menggali dampak masalah pencatatan dan menanyakan prioritas bisnis lain | Budi mengungkap pasokan bahan baku lebih mengganggu | Perubahan cara bertanya membuka informasi kebutuhan yang sebelumnya tidak diketahui | Pergeseran fokus dari fitur TI/AI ke masalah operasional customer |
+| U014–U017 | Budi menjelaskan proses manual, frekuensi kehabisan stok perkiraan 2–3 kali/bulan, dan keterbatasan pencatatan | Mahasiswa menggali proses, lalu mengusulkan batas stok minimum, data pemakaian dan *lead time*, serta evaluasi dua minggu | Budi menyatakan pendekatan rasional dan meminta kesepakatan pengumpulan data serta evaluasi | K membaik pada tingkat simulasi; kesiapan tindakan meningkat tetapi belum berarti sistem diterapkan | Langkah sederhana, tidak memaksakan AI, mengakui ketidakpastian dan mengajak kolaborasi |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+### Perbandingan dugaan awal dengan profil simulasi
+
+Dugaan awal mahasiswa adalah bahwa Budi terutama khawatir tim kesulitan beradaptasi (U002). Profil simulasi internal K3-02 menggambarkan customer yang mengutamakan kepastian, prosedur teratur, bukti dan komitmen; hambatan utamanya meliputi kekhawatiran biaya/gangguan prosedur, kebutuhan memahami biaya dan alur pembanding, serta kebutuhan pilot dengan prosedur cadangan. Perilaku Budi dalam percakapan konsisten dengan kebutuhan akan urutan, bukti, kontrol risiko dan langkah kecil.
+
+| Dimensi profil target (simulasi) | Ringkasan dan bukti percakapan | Catatan |
+|---|---|---|
+| SWOT subjektif | Budi nyaman dengan prosedur lama, khawatir gangguan, biaya, dan stok habis; ia melihat pendekatan sederhana sebagai sesuatu yang bisa dijajaki | Fakta karakter fiktif dikombinasikan dengan dialog simulasi; bukan profil customer nyata |
+| Attitude (A) | Awalnya hati-hati; menjadi lebih terbuka setelah pilihan, evaluasi, dan keputusan akhir tetap berada padanya | Perubahan status relasional dalam simulasi, bukan ukuran psikologis |
+| Knowledge (K) | Menguasai proses manual; belum memiliki batas stok minimum baku atau data frekuensi yang pasti | Terungkap melalui AI014 |
+| Skill/dukungan (S) | Membutuhkan pencatatan yang sederhana dan prosedur cadangan; meminta kejelasan siapa mengumpulkan data dan kapan evaluasi | Kesiapan tindakan masih memerlukan perencanaan bersama |
+| Preferensi dan kultur/ko-kultur | Profil fiktif menyebut ISTJ sebagai parameter karakter, dengan kecenderungan menghargai detail, bukti dan urutan prosedur | Bukan diagnosis; tidak disimpulkan dari mahasiswa |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U005–U006 | Menawarkan pendampingan penuh dan menjaga operasional melalui *shadowing* | Budi mengakui pendekatan masuk akal, lalu bertanya lebih lanjut tentang keamanan data | Keterbukaan dalam simulasi meningkat dari keberatan umum ke pertanyaan risiko yang lebih spesifik | Bantuan konkret dan perhatian pada beban kerja relevan; belum membuktikan perubahan relasi di dunia nyata |
+| U007–U009 | Mengakui pentingnya privasi, menjelaskan pembatasan akses, persetujuan data, prosedur insiden, serta hak customer menghentikan uji coba | Budi menyatakan lebih yakin dan meminta kejelasan keputusan lanjut/henti | Kepercayaan simulatif tampak sedang menuju lebih tinggi; keterbukaan terlihat dari pertanyaan rinci | Transparansi membantu, tetapi klaim kepemilikan/biaya dan praktik keamanan tetap harus diwujudkan dalam kesepakatan tertulis jika nyata |
+| U017 | Mengakui bahwa metode tidak menjamin stok tidak pernah habis, dan mengusulkan evaluasi bersama | Budi menerima formulasi dasar dan meminta kejelasan peran serta waktu evaluasi | Respons kooperatif tanpa menyerahkan kendali keputusan | Menghargai risiko dan pilihan mendukung relasi profesional; belum ada tindakan di luar percakapan |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Secara keseluruhan, kepedulian dalam konteks profesional tampak melalui pengurangan beban tim, transparansi tentang risiko, pendampingan, dan penghormatan terhadap keputusan Budi. Respons chatbot hanya menunjukkan dinamika karakter dalam simulasi; motif batin, kepercayaan customer nyata, dan ketulusan tidak dapat dipastikan dari teks.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+Uji ulang menunjukkan perubahan yang paling jelas. Pada simulasi awal, mahasiswa cepat menyebut manfaat TI/AI, *shadowing*, kontrol keamanan dan metrik sebelum cukup memahami alur bisnis. Mahasiswa kemudian menyadari kelemahan itu (U011). Dalam uji ulang, mahasiswa menggunakan pertanyaan terbuka tentang dampak pencatatan dan tantangan yang lebih penting (U012–U015). Hal tersebut membuka informasi bahwa keterlambatan pasokan merupakan masalah yang lebih prioritas. Solusi yang ditawarkan pun berubah menjadi penentuan batas minimum stok dengan data pemakaian dan waktu pengiriman, bukan langsung AI kompleks (U016–U017).
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Keterbatasan yang masih tampak: mahasiswa belum mengumpulkan angka operasional aktual, dan rumus *reorder point* baru berupa usulan konseptual. Untuk menentukan angka yang tepat dibutuhkan data pemakaian harian, distribusi/variasi *lead time*, tingkat layanan yang diinginkan, kapasitas penyimpanan, dan biaya kehabisan stok. Cadangan sebaiknya disepakati berdasar risiko, bukan semata-mata menggunakan waktu pengiriman terlama sebagai aturan otomatis. Uji coba dua minggu adalah usulan simulasi, bukan tindakan yang sudah dijalankan.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
-|---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 3 | U002 menetapkan tujuan menjaga hubungan dan cara kerja efektif; U012–U015 menggali kebutuhan dan menemukan prioritas pasokan | Tujuan awal jelas dan konteks akhirnya tergali, tetapi penggalian kebutuhan terlambat dimulai pada simulasi awal |
+| Persepsi dan validasi profil/status | 3 | U006–U008 menanggapi kekhawatiran operasional/privasi; U012–U015 menanyakan dampak dan proses | Kekhawatiran dihormati dan pertanyaan terbuka dipakai pada uji ulang; validasi dampak dapat dilakukan lebih awal |
+| Pemilihan dan urutan repertoar | 3 | U003–U010 langsung menawarkan manfaat dan beberapa rancangan; U012–U017 kemudian menggali sebelum menawarkan opsi sederhana | Ada repertoar relevan dan adaptasi yang baik, tetapi urutan pada simulasi awal terlalu cepat ke solusi |
+| Eksekusi jelas, peduli dan konsisten | 3 | U005–U009 menawarkan pendampingan, *shadowing*, keamanan dan evaluasi; U017 menyebut keterbatasan metode | Pesan terstruktur dan memperhatikan customer; klaim “tidak ada biaya sama sekali” di U010 terlalu pasti sebelum biaya diverifikasi |
+| Evaluasi dan adaptasi | 4 | U011: “terlalu cepat ke solusi teknis”; U012–U017 menunjukkan perubahan nyata pada cara bertanya dan solusi | Refleksi diterapkan langsung dalam uji ulang dan mengubah fokus sesuai kebutuhan yang ditemukan |
+| Refleksi dan lesson learned | 4 | U018 menjelaskan pergeseran fokus, pentingnya memahami operasional, serta kebutuhan menggali data kuantitatif | Refleksi spesifik, mengakui kelemahan, dan menetapkan perbaikan yang relevan |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Total usulan AI: 20/24 = 83,3/100.** Skor ini bersifat sementara dan perlu moderasi dosen. Penilaian proses komunikasi terpisah dari hasil tujuan; tidak ada bukti bahwa usaha nyata telah mengadopsi solusi atau mencapai efisiensi.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Mahasiswa menyatakan bahwa perbedaan paling mendasar antara simulasi awal dan simulasi ulang adalah pergeseran dari cepat menyodorkan solusi teknis/AI ke mendengarkan aktif melalui pertanyaan terbuka hingga menemukan prioritas masalah yang sebenarnya, yaitu keterlambatan pasokan. Mahasiswa belajar bahwa teknologi adalah alat pembantu, sehingga alur operasional, anggaran dan preferensi pengguna perlu dipahami sebelum menerapkan teknologi. Jika mengulang percakapan, mahasiswa ingin lebih proaktif menggali data kuantitatif seperti durasi pengiriman dan perkiraan kerugian finansial saat stok habis.
+
+Interpretasi AI: refleksi tersebut sesuai dengan perilaku yang terlihat pada uji ulang. Perbaikan berikutnya adalah membedakan data yang benar-benar tercatat dari perkiraan, menghindari janji biaya nol sebelum pemeriksaan, dan memastikan solusi sederhana diuji terhadap indikator yang disepakati customer.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+1. Bersama customer, identifikasi beberapa bahan baku utama dan sepakati sumber data yang sudah tersedia.
+2. Catat pemakaian harian serta tanggal pemesanan dan kedatangan untuk mendapatkan gambaran *lead time* dan variasinya.
+3. Sepakati batas minimum awal dan cadangan berdasarkan data serta toleransi risiko customer; jangan mengklaim bahwa risiko kehabisan stok akan hilang sepenuhnya.
+4. Tentukan penanggung jawab, cara pencatatan paling ringan, dan prosedur cadangan bila pasokan terlambat.
+5. Jika uji coba benar-benar dijalankan, evaluasi metrik yang disepakati—misalnya kejadian kehabisan stok, waktu yang dipakai untuk mencatat, dan kebutuhan modal—lalu putuskan bersama apakah dilanjutkan, disesuaikan, atau dihentikan.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+Batas bukti: laporan bersumber dari simulasi teks. Tidak ada data operasional usaha yang diverifikasi, tidak ada sistem yang dibangun, dan tidak ada hasil uji coba dua minggu yang benar-benar diukur. Profil Budi adalah tokoh fiktif. Teks tidak menyediakan bukti prosodi atau bahasa tubuh. Usulan skor AI bukan nilai resmi dosen.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+## Bobot dan nilai akhir UTS
 
-{{< include "../../includes/uts-penilaian.md" >}}
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Usulan AI 20/24 = 83,3/100; menunggu moderasi dosen |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
