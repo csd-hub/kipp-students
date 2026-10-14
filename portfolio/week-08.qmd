@@ -1,7 +1,7 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -16,36 +16,54 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Mouristio R. A. K. L. Praing |
+| NIM | 18225119 |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | 14 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 |
+| Modalitas | Chat (Gemini) |
+| Status pengumpulan | Belum diunggah ke portal (Siap diunggah) |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap dinilai | Lengkap (`paper.qmd`) |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Siap dinilai | Lengkap (`hasil_1.qmd`) |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Siap dinilai |Lengkap (`hasil_2a.qmd`) |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Siap dinilai | Lengkap (`hasil_2b.qmd`) |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Siap dinilai | Lengkap (`hasil_3a.qmd`) |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Elsa (K3-05) | Siap dinilai | Lengkap (`hasil_3b.qmd`) |
 
-{{< include "../includes/uts-penilaian.md" >}}
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
 
 ## Rekap nilai komponen
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
+| Makalah (`paper.qmd`) | 10% | — | — | — | Menunggu Moderasi Dosen |
 | Sesi 1 | 18% | — | — | — | Belum dinilai |
 | Sesi 2a | 18% | — | — | — | Belum dinilai |
 | Sesi 2b | 18% | — | — | — | Belum dinilai |
 | Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Sesi 3b | 18% | — | 100.00 | — | Usulan AI Selesai (24/24) |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
