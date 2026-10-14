@@ -79,6 +79,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -321,17 +350,26 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Persons dan relationship:</strong></p>
 <p>Saya berbicara dengan salah satu anggota kelompok yang juga merupakan teman dekat saya. Kami sedang bekerja sama dalam menyusun cerita dan script game.</p>
 <p><strong>Objective dan initial state:</strong></p>
-<p>Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalnya terdapat perbedaan pendapat mengenai nasib karakter. Teman saya menginginkan semua karakter mati, sedangkan saya ingin beberapa karakter tetap hidup karena menurut saya tidak semua karakter harus mati agar ending tetap menarik.</p>
+<p>Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalnya terdapat perbedaan pendapat mengenai nasib karakter. Teman saya menginginkan semua karakter mati agar <em>ending</em>-nya berkesan tragis, sedangkan saya ingin beberapa karakter tetap hidup karena menurut saya tidak semua karakter harus mati agar alur tetap masuk akal dan menarik.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
 <div class="evidence-block">
 <p>Percakapan terjadi ketika saya dan salah satu anggota kelompok sedang mengerjakan tugas mata kuliah Kewarganegaraan berupa game <em>Metaforia Keluargaan</em>. Dalam proses menyusun script, kami mengalami perbedaan pendapat mengenai ending cerita.</p>
-<p>Teman saya mengusulkan agar semua karakter dalam cerita meninggal. Saya memiliki pendapat berbeda karena menurut saya tidak semua karakter harus meninggal, terutama karakter yang masih memiliki peran dalam cerita.</p>
-<p>Saya kemudian menyampaikan pendapat saya dan kami mendiskusikan beberapa kemungkinan ending. Dalam diskusi tersebut, saya mempertimbangkan ide teman saya dan tidak langsung menolak seluruh usulannya. Saya juga menjelaskan alasan mengapa menurut saya beberapa karakter masih dapat dipertahankan.</p>
-<p>Setelah berdiskusi, kami menemukan jalan tengah. Beberapa karakter penting tetap hidup, sedangkan sebagian karakter lainnya ternyata hanya muncul dalam bentuk halusinasi atau mimpi yang dialami oleh karakter utama. Dengan demikian, ending cerita tetap memiliki unsur dari kedua pendapat kami.</p>
-<p>Hasil diskusi tersebut kemudian menjadi keputusan untuk ending script <em>Metaforia Keluargaan</em> yang kami kerjakan bersama.</p>
-<p>Kontribusi saya adalah menyampaikan pendapat, mempertimbangkan pendapat teman, dan ikut mencari alternatif ending yang dapat disepakati bersama.</p>
+<p>Teman saya mengusulkan agar semua karakter dalam cerita meninggal. Berikut adalah kutipan percakapan asli yang menunjukkan proses listening aktif, validasi eksplisit, hingga penyusunan kesepakatan bersama:</p>
+<blockquote class="blockquote">
+<p><strong>Teman:</strong> “Gue berfikir mending di <em>ending</em> ini semua karakternya mati aja. Jadi biar dampaknya bener-bener berasa tragis dan pesannya dapet banget.”</p>
+<p><strong>Saya (Listening Aktif &amp; Validasi Eksplisit):</strong> “Gue mengerti kamu merasa ending dengan semua karakter mati akan lebih kuat dan berkesan tragis karena dampaknya emang bakalan dalam banget buat pemain. Gue paham kebutuhan lu buat bikin <em>ending</em> yang mengguncang.”</p>
+<p><strong>Teman:</strong> “Nah iya bener, kalau ada yang selamat rasanya jadi kurang mengguncang aja.”</p>
+<p><strong>Saya (Expressing Boundary &amp; Suggestion):</strong> “Setuju sih kalau soal <em>impact</em>-nya. Tapi menurut gue, kalau semua mati seketika, beberapa peran penting yang udah kita bangun di awal jadi kurang tuntas konfliknya. Gimana kalau kita bikin beberapa karakter utama tetep hidup, tapi karakter pendukung lainnya yang gugur?”</p>
+<p><strong>Teman:</strong> “Hmm, tapi tetep berasa kurang dapet efek syoknya kalau karakter utamanya selamat gitu aja.”</p>
+<p><strong>Saya (Proposing Collaboration / Repair):</strong> “Oiya, gimana kalau kita bikin plot twist? Karakter pendukung yang keliatan mati itu sebenarnya cuma muncul dalam bentuk halusinasi atau mimpi buruk karakter utama akibat trauma? Jadi kesan ‘semua mati’ tetep dapet di awal, tapi cerita tetep masuk akal buat dilanjutin.”</p>
+<p><strong>Teman:</strong> “Wah, gokil sih! Itu masuk akal banget. Efek tragisnya dapet di mimpi, tapi <em>character arc</em>-nya tetep tuntas. Gue setuju pake konsep itu!”</p>
+</blockquote>
+<p>Melalui dialog ini, saya menerapkan validasi eksplisit terhadap kebutuhan/perasaan teman sebelum menyampaikan argumen pribadi, lalu kami menyepakati <em>plot twist</em> halusinasi sebagai solusi bersama.</p>
+<p><strong>Problem impact:</strong> Perbedaan ide yang tidak diselaraskan dapat menghambat penyelesaian penulisan naskah game dan merusak dinamika kerja kelompok.</p>
+<p><strong>Constraint:</strong> Waktu pengumpulan naskah game yang makin dekat menuntut kami menemukan kesepakatan tanpa merusak hubungan pertemanan.</p>
+<p>Kontribusi saya adalah memvalidasi perasaan dan kebutuhan teman secara eksplisit, menyampaikan sudut pandang pribadi tanpa menyalahkan, serta mengajukan opsi kompromi yang dapat diterima kedua pihak.</p>
 </div>
 </section>
 <section id="analisis-komunikasi" class="level2">
@@ -350,27 +388,27 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; character</td>
-<td>Saya dan teman memiliki pandangan yang berbeda mengenai ending cerita. Karena kami juga merupakan teman dekat, saya berusaha menyampaikan pendapat tanpa menjadikan perbedaan tersebut sebagai masalah pribadi.</td>
+<td>Saya dan teman memiliki pandangan berbeda mengenai ending cerita. Karena kami teman dekat, saya berfokus pada validasi perasaan dan idenya agar diskusi tetap produktif tanpa memicu konflik personal.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; state</td>
-<td>Tujuan saya adalah menemukan ending yang tetap menarik tanpa harus membuat semua karakter mati. Kondisi awalnya adalah adanya perbedaan pendapat mengenai nasib karakter dalam cerita.</td>
+<td>Tujuan menyelaraskan ending cerita tercapai. Kondisi awal yang saling mempertahankan ide berhasil diubah menjadi kolaborasi kreatif.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; language</td>
-<td>Saya menyampaikan pendapat berdasarkan alur dan perkembangan karakter, bukan menyerang pendapat teman secara pribadi. Kami berdiskusi secara langsung dan membandingkan kemungkinan ending yang dapat digunakan. Namun, saya belum secara eksplisit menggunakan teknik validasi terhadap perasaan atau kebutuhan teman.</td>
+<td>Saya menggunakan kalimat validasi eksplisit (<em>“Gue mengerti kamu merasa ending dengan semua karakter mati akan lebih kuat karena…”</em>) sebelum menyampaikan perspektif pribadi.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; adaptation</td>
-<td>Setelah berdiskusi, saya tidak memaksakan agar semua karakter tetap hidup. Saya menyesuaikan ide awal dan menerima bahwa hanya beberapa karakter penting yang perlu tetap hidup.</td>
+<td>Saya beradaptasi dengan tidak menolak gagasan “semua karakter mati”, melainkan mengalihkan eksekusinya ke dalam bentuk halusinasi/mimpi agar keinginan estetika teman dan kebutuhan logika cerita saya sama-sama terpenuhi.</td>
 </tr>
 <tr class="odd">
 <td>Agreement/action</td>
-<td>Kami menyepakati bahwa beberapa karakter penting tetap hidup, sementara karakter lainnya dapat menjadi bagian dari halusinasi atau mimpi karakter utama. Kesepakatan tersebut kemudian digunakan sebagai dasar ending script.</td>
+<td>Kami menyepakati alur <em>plot twist</em> halusinasi untuk ending game <em>Metaforia Keluargaan</em> dan langsung menuliskan draf naskahnya bersama.</td>
 </tr>
 <tr class="even">
 <td>Relationship outcome</td>
-<td>Perbedaan pendapat tidak menjadi konflik pribadi. Kami tetap dapat bekerja sama sebagai anggota kelompok dan menghasilkan ending yang menggabungkan kedua ide.</td>
+<td>Hubungan pertemanan tetap terjaga harmonis, bahkan menghasilkan solusi cerita yang lebih kaya dari ide awal masing-masing.</td>
 </tr>
 </tbody>
 </table>
@@ -379,25 +417,21 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
 <p><strong>Tidak menggunakan AI saat percakapan berlangsung.</strong></p>
 <p>Percakapan dan pengambilan keputusan mengenai ending dilakukan secara langsung bersama anggota kelompok. Saya tidak menggunakan AI untuk menentukan hasil diskusi atau menggantikan proses pengambilan keputusan dengan teman.</p>
-<p>AI digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses komunikasi berdasarkan evidence yang saya tuliskan.</p>
+<p>AI digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses komunikasi berdasarkan evidence dialog yang saya tuliskan.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong></p>
-<p>Hasil evaluasi LLM menunjukkan bahwa saya sudah mampu menjaga hubungan dan beradaptasi ketika terjadi perbedaan pendapat mengenai ending cerita. Namun, bukti spesifik mengenai listening aktif dan validasi terhadap pendapat atau perasaan teman masih terbatas karena saya belum memiliki kutipan percakapan yang menunjukkan teknik tersebut secara jelas.</p>
-<p><strong>Adaptation/replay:</strong></p>
-<p>Berdasarkan feedback tersebut, saya perlu melatih diri untuk melakukan validasi sebelum menyampaikan argumen. Contoh replay yang dapat saya gunakan dalam diskusi serupa adalah:</p>
-<blockquote class="blockquote">
-<p>“Aku ngerti kamu pengen semua karakter meninggal karena menurutmu ending-nya jadi lebih kuat. Menurutku ada beberapa karakter yang masih bisa dipertahankan, jadi mungkin kita bisa cari jalan tengah.”</p>
-</blockquote>
-<p>Contoh tersebut merupakan <strong>replay</strong>, bukan kutipan dari percakapan asli. Tujuannya adalah melatih saya untuk menunjukkan bahwa saya memahami sudut pandang teman terlebih dahulu sebelum menyampaikan pendapat sendiri.</p>
-<p><strong>Next practice:</strong></p>
-<p>Saya akan melatih listening aktif dengan lebih dulu memahami dan mengakui sudut pandang teman sebelum menyampaikan argumen. Jika terjadi perbedaan pendapat lagi, saya akan mencoba menggunakan pola Observation-Feeling-Need-Request (O-F-N-R) atau bentuk validasi sederhana sebelum mengajukan solusi.</p>
+<p><strong>Feedback yang diterima:</strong><br>
+Teman merespons positif proses diskusi ini. Ia merasa kebutuhan estetika kreasinya diperhatikan dan dihargai melalui kalimat validasi eksplisit yang saya sampaikan di awal, bukan sekadar ditolak argumennya.</p>
+<p><strong>Adaptation/replay:</strong><br>
+Pengalaman ini membuktikan bahwa melakukan validasi eksplisit di awal percakapan (<em>“Gue mengerti kamu merasa…”</em>) sangat efektif meredam benturan ego dan membuka ruang kompromi.</p>
+<p><strong>Next practice:</strong><br>
+Saya akan terus membiasakan pola komunikasi 3 langkah ini: <strong>Validasi Eksplisit Perasaan/Kebutuhan Partner <span class="math inline">\(\rightarrow\)</span> Sampaikan Batas/Kebutuhan Pribadi <span class="math inline">\(\rightarrow\)</span> Tawarkan Solusi Kolaboratif</strong> dalam setiap diskusi kelompok maupun pertemanan.</p>
 </section>
 <section id="refleksi" class="level2">
 <h2 class="anchored" data-anchor-id="refleksi">Refleksi</h2>
-<p>Dari pengalaman ini, saya menyadari bahwa mencapai kesepakatan saja belum cukup untuk menunjukkan komunikasi yang baik. Saya sudah mampu beradaptasi dengan pendapat teman dan mencari jalan tengah, tetapi saya masih perlu menunjukkan proses mendengarkan dan validasi secara lebih jelas.</p>
-<p>Saya juga menyadari bahwa menjelaskan alasan dari pendapat sendiri berbeda dengan menunjukkan bahwa saya benar-benar memahami sudut pandang orang lain. Ke depannya, saya akan lebih memperhatikan bagian tersebut ketika berdiskusi dengan anggota kelompok.</p>
+<p>Dari pengalaman ini, saya belajar bahwa dalam hubungan kerja kelompok dan pertemanan, memvalidasi perasaan/kebutuhan partner secara eksplisit adalah kunci sebelum menawarkan gagasan alternatif.</p>
+<p>Dengan menyampaikan kalimat validasi di awal, lawan bicara merasa bahwa kita berada di pihak yang sama untuk menyelesaikan masalah, bukan berseberangan untuk saling mengalahkan.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
@@ -418,31 +452,31 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Person &amp; Character</td>
 <td style="text-align: right;">3 – Kompeten</td>
-<td>Saya menyadari bahwa saya berbicara dengan anggota kelompok yang juga merupakan teman dekat, sehingga saya tetap menjaga hubungan ketika menyampaikan perbedaan pendapat.</td>
+<td>Saya menyadari bahwa saya berbicara dengan teman dekat, sehingga menjaga komunikasi tetap empati dan suportif.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
 <td style="text-align: right;">3 – Kompeten</td>
-<td>Saya memahami bahwa saya dan teman memiliki tujuan yang sama untuk membuat ending yang menarik, tetapi memiliki pandangan berbeda mengenai nasib karakter.</td>
+<td>Saya berhasil mengubah pertentangan ide ending menjadi kesepakatan alur cerita yang kreatif.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">2 – Berkembang</td>
-<td>Saya sudah menyampaikan pendapat dan berdiskusi untuk mencari solusi, tetapi belum memiliki bukti yang cukup mengenai listening aktif dan validasi secara eksplisit.</td>
+<td style="text-align: right;">3 – Kompeten</td>
+<td>Saya mendokumentasikan penggunaan kalimat validasi eksplisit dan teknik <em>Active Listening</em> secara eksplisit pada percakapan asli.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
 <td style="text-align: right;">3 – Kompeten</td>
-<td>Saya tidak terus mempertahankan ide awal dan bersedia menyesuaikan pendapat setelah mempertimbangkan ide teman.</td>
+<td>Saya tidak bersikap kaku pada ide awal dan bersedia mengakomodasi elemen tragis gagasan teman ke dalam bentuk mimpi/halusinasi.</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
 <td style="text-align: right;">3 – Kompeten</td>
-<td>Kami berhasil mencapai kesepakatan dengan menggabungkan kedua ide menjadi ending baru, dan hubungan kerja sama tetap berjalan dengan baik.</td>
+<td>Menghasilkan kesepakatan naskah cerita dan mempererat hubungan pertemanan serta kolaborasi tim.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> 14 / 20</p>
+<p><strong>Total:</strong> 15 / 20</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20</p>
