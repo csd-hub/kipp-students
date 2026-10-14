@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 2a"
 subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+author: "Mouristio R. A. K. L. Praing"
 lang: id
-status: "Belum dimulai"
+status: "Siap Dinilai"
 format:
   html:
     toc: true
