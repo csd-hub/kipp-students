@@ -2432,7 +2432,7 @@
     "href": "index.html",
     "title": "Portfolio Pembelajaran",
     "section": "",
-    "text": "Nama Mahasiswa\n\n\nNIM · Program Studi · Angkatan\nPortfolio ini merekam perkembangan kompetensi pada mata kuliah Komunikasi Inter Personal dan Publik. Setiap klaim pencapaian harus terhubung pada evidence, feedback, refleksi, dan tindakan perbaikan."
+    "text": "Mouristio R. A. K. L. Praing\n\n\n185119 · Sistem dan Teknologi Informasi · 2025\nPortfolio ini merekam perkembangan kompetensi pada mata kuliah Komunikasi Inter Personal dan Publik. Setiap klaim pencapaian harus terhubung pada evidence, feedback, refleksi, dan tindakan perbaikan."
   },
   {
     "objectID": "index.html#mulai-dari-sini",
@@ -6508,7 +6508,7 @@
     "href": "portfolio/week-05.html",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Professional\nDiscovery\nDiscovery menuju shared problem statement.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6518,8 +6518,8 @@
     "objectID": "portfolio/week-05.html#kompetensi-target",
     "href": "portfolio/week-05.html#kompetensi-target",
     "title": "Professional Discovery Interview",
-    "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "section": "Kompetensi target",
+    "text": "Kompetensi target\nMendengar sebelum proposing dan membangun shared problem statement dengan person.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6530,7 +6530,7 @@
     "href": "portfolio/week-05.html#evidence-wajib",
     "title": "Professional Discovery Interview",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nParaphrase hasil percakapan serta problem impact dan constraint.\nKonfirmasi langsung dari partner terhadap pemahaman masalah.\nShared problem statement yang sesuai dengan hasil discovery dan dikonfirmasi partner.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6541,7 +6541,7 @@
     "href": "portfolio/week-05.html#konteks-performance",
     "title": "Professional Discovery Interview",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting:\nSekitar masa perkuliahan, percakapan dilakukan secara langsung dengan teman sekelas ketika ia mengalami kesulitan dalam melakukan setup Visual Studio Code untuk keperluan perkuliahan.\nPersons dan relationship:\nSaya berbicara dengan teman sekelas yang sedang mengalami kendala dalam menggunakan Visual Studio Code.\nObjective dan initial state:\nTujuan saya adalah memahami kesulitan yang dialami teman sebelum memberikan bantuan. Pada awalnya saya mengira masalahnya adalah teman saya tidak memahami coding yang sedang dikerjakan.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6552,7 +6552,7 @@
     "href": "portfolio/week-05.html#evidence",
     "title": "Professional Discovery Interview",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nTeman sekelas saya mengatakan bahwa ia mengalami kesulitan ketika menggunakan Visual Studio Code.\nInitial assumption saya adalah bahwa ia tidak mengerti coding yang sedang dikerjakan. Sebelum langsung memberikan solusi, saya bertanya:\n\n“Apa yang ga lu ngerti?”\n\nSetelah mendengar penjelasannya, saya mengetahui bahwa masalah utamanya bukan pada pemahaman coding, melainkan pada proses setup Visual Studio Code yang belum berhasil dilakukan.\nSebelum masuk ke langkah-langkah teknis maupun memberikan solusi, saya melakukan paraphrasing dan mengonfirmasi Shared Problem Statement secara eksplisit kepada teman:\n\nSaya: “Oh, jadi intinya masalahnya adalah di setup VS Code, bukan karena lu ga ngerti coding-nya, benar?”\nTeman: “Iya, bener banget. Coding-nya sih paham, tapi ini VS Code-nya ga mau jalan pas di-setup.”\n\nSetelah partner mengonfirmasi dan menyepakati masalah tersebut secara eksplisit, barulah saya mulai memberikan solusi dengan membantu melakukan setup Visual Studio Code sekaligus menjelaskan langkah-langkahnya agar teman saya dapat memahami prosesnya.\nProblem impact: Teman saya belum dapat menggunakan Visual Studio Code dengan baik untuk melanjutkan kegiatan pemrograman karena proses setup belum berhasil.\nConstraint: Teman saya membutuhkan bantuan dalam melakukan setup Visual Studio Code sebelum dapat melanjutkan kegiatan pemrograman.\nSetelah dibantu, teman saya mengucapkan terima kasih.\nKontribusi saya adalah melakukan discovery melalui pertanyaan, menyampaikan paraphrase untuk konfirmasi masalah (Shared Problem Statement) sebelum solusi, lalu membantu menyelesaikan setup sambil menjelaskan prosesnya.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6563,7 +6563,7 @@
     "href": "portfolio/week-05.html#analisis-komunikasi",
     "title": "Professional Discovery Interview",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya berbicara dengan teman sekelas sehingga menggunakan bahasa yang santai dan langsung. Saya juga berusaha memahami kendalanya sebelum memberikan bantuan.\n\n\nObjective & state\nTujuan awalnya adalah mengetahui bagian yang menjadi kendala. Saya awalnya mengira masalahnya adalah coding, tetapi setelah bertanya ternyata masalahnya adalah setup Visual Studio Code.\n\n\nRepertoire & language\nSaya menggunakan pertanyaan sederhana (“Apa yang ga lu ngerti?”) untuk menggali masalah, lalu mengonfirmasi pemahaman secara eksplisit (“Jadi intinya masalahnya di setup VS Code, bukan coding, benar?”) sebelum memberikan penjelasan teknis setup.\n\n\nResponse & adaptation\nSaya mengubah asumsi awal setelah mendapatkan informasi dari teman. Awalnya saya mengira masalahnya adalah coding, tetapi kemudian menyesuaikan bantuan dari penjelasan coding menjadi bantuan setup VS Code.\n\n\nAgreement & action\nSetelah partner mengonfirmasi eksplisit masalah utamanya, saya memberikan solusi bantuan setup VS Code sambil menjelaskan prosesnya.\n\n\nRelationship outcome\nTeman dapat memperoleh bantuan untuk melakukan setup dan memberikan respons positif berupa ucapan terima kasih. Interaksi tetap berjalan dengan baik.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6574,7 +6574,7 @@
     "href": "portfolio/week-05.html#penggunaan-ai",
     "title": "Professional Discovery Interview",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nTidak menggunakan AI saat percakapan berlangsung.\nDiscovery, konfirmasi masalah, dan bantuan dilakukan secara langsung dengan teman sekelas. Saya tidak menggunakan AI untuk menentukan masalah atau memberikan solusi dalam percakapan tersebut.\nAI hanya digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses discovery berdasarkan evidence yang saya tuliskan.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6585,7 +6585,7 @@
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "title": "Professional Discovery Interview",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima:\nTeman mengonfirmasi secara eksplisit bahwa masalah yang dialaminya memang berada pada setup Visual Studio Code, bukan pada pemahaman coding. Setelah saya membantu melakukan setup dan menjelaskan prosesnya, teman saya juga mengucapkan terima kasih.\nAdaptation/replay:\nSaya menyadari bahwa asumsi awal saya bahwa teman tidak memahami coding ternyata tidak tepat. Dengan menyampaikan paraphrase konfirmasi eksplisit (“Jadi intinya masalahnya di setup VS Code, bukan coding, benar?”) sebelum melangkah ke solusi, saya memastikan bahwa kami telah menyepakati Shared Problem Statement terlebih dahulu.\nNext practice:\nSaya akan mempertahankan kebiasaan untuk tidak langsung memberikan solusi berdasarkan asumsi. Saya akan mengajukan pertanyaan discovery, mengonfirmasi Shared Problem Statement secara eksplisit dengan partner, dan baru memberikan solusi teknis setelah ada persetujuan.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6596,7 +6596,7 @@
     "href": "portfolio/week-05.html#self-assessment",
     "title": "Professional Discovery Interview",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3 – Kompeten\nSaya menyesuaikan bahasa dengan teman sekelas dan berusaha memahami kondisi yang dialaminya sebelum membantu.\n\n\nObjective & State\n3 – Kompeten\nSaya memiliki tujuan untuk mengetahui bagian yang menjadi kendala dan mampu menyadari bahwa asumsi awal saya mengenai coding tidak sesuai dengan masalah sebenarnya.\n\n\nRepertoire, Language & AI\n3 – Kompeten\nSaya menggunakan pertanyaan discovery dan kalimat konfirmasi eksplisit sebelum menjelaskan langkah-langkah setup Visual Studio Code.\n\n\nResponse & Adaptation\n3 – Kompeten\nSaya mengubah asumsi setelah mendapatkan informasi baru dan menyesuaikan bantuan dari masalah coding menjadi masalah setup.\n\n\nAgreement, Action & Relationship\n3 – Kompeten\nSaya mengonfirmasi pemahaman masalah secara eksplisit dengan teman sebelum memberikan solusi, membantu melakukan setup, dan menjelaskan prosesnya. Teman juga memberikan respons positif berupa ucapan terima kasih.\n\n\n\nTotal: 15 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -7521,8 +7521,8 @@
     "objectID": "slides/minggu-08.html#tujuan-uts",
     "href": "slides/minggu-08.html#tujuan-uts",
     "title": "Minggu 8 — UTS KIPP",
-    "section": "Tujuan UTS",
-    "text": "Tujuan UTS\nUTS menguji diagnosis, validasi, pemilihan repertoar, eksekusi, evaluasi, adaptasi, dan refleksi. Respons target mengubah alur percakapan. Keberhasilan tidak mensyaratkan target selalu setuju."
+    "section": "",
+    "text": "UTS menguji diagnosis, validasi, pemilihan repertoar, eksekusi, evaluasi, adaptasi, dan refleksi. Respons target mengubah alur percakapan. Keberhasilan tidak mensyaratkan target selalu setuju."
   },
   {
     "objectID": "slides/minggu-08.html#persiapan",
@@ -8034,5 +8034,34 @@
     "title": "Minggu 14 — AI-Mediated Communication",
     "section": "Pegangan satu menit",
     "text": "Pegangan satu menit\n\nUse AI to increase human competence. Keep authority explicit. Keep relationship-critical communication human-owned."
+  },
+  {
+    "objectID": "portfolio/week-05.html#shared-problem-statement",
+    "href": "portfolio/week-05.html#shared-problem-statement",
+    "title": "Professional Discovery Interview",
+    "section": "Shared problem statement",
+    "text": "Shared problem statement\nBerdasarkan hasil discovery dan konfirmasi eksplisit dari percakapan dengan teman, kami menyepakati bahwa masalah utamanya bukan karena pemahaman coding, melainkan kegagalan pada proses setup lingkungan kerja di editor.\n\nShared Problem Statement: “Teman saya membutuhkan bantuan untuk menyelesaikan setup Visual Studio Code agar dapat melanjutkan kegiatan pemrograman.”\n\nProblem statement tersebut dibangun dari hasil discovery dan telah dikonfirmasi serta disepakati oleh partner sebelum solusi teknis dieksekusi.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#refleksi",
+    "href": "portfolio/week-05.html#refleksi",
+    "title": "Professional Discovery Interview",
+    "section": "Refleksi",
+    "text": "Refleksi\nDari pengalaman ini, saya menyadari bahwa asumsi awal tidak selalu sesuai dengan masalah sebenarnya. Awalnya saya mengira teman mengalami kesulitan dalam memahami coding, tetapi setelah melakukan discovery melalui pertanyaan, saya mengetahui bahwa kendalanya berada pada setup Visual Studio Code.\nSaya juga menyadari pentingnya melakukan konfirmasi eksplisit terhadap pemahaman masalah sebelum memberikan solusi. Konfirmasi langsung dengan partner memastikan bahwa solusi yang saya berikan benar-benar tepat sasaran dan disepakati bersama.\nKe depannya, saya akan lebih membiasakan diri untuk mendengar, mengonfirmasi masalah secara eksplisit, baru kemudian melangkah ke pemberian solusi.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "slides/minggu-08.html",
+    "href": "slides/minggu-08.html",
+    "title": "Minggu 8 — UTS KIPP",
+    "section": "",
+    "text": "UTS menguji diagnosis, validasi, pemilihan repertoar, eksekusi, evaluasi, adaptasi, dan refleksi. Respons target mengubah alur percakapan. Keberhasilan tidak mensyaratkan target selalu setuju."
   }
 ]

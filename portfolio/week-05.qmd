@@ -49,11 +49,14 @@ Initial assumption saya adalah bahwa ia tidak mengerti coding yang sedang dikerj
 
 > "Apa yang ga lu ngerti?"
 
-Setelah mendengar penjelasannya, saya mengetahui bahwa masalah utamanya bukan pada pemahaman coding, tetapi pada proses setup Visual Studio Code yang belum berhasil dilakukan.
+Setelah mendengar penjelasannya, saya mengetahui bahwa masalah utamanya bukan pada pemahaman coding, melainkan pada proses setup Visual Studio Code yang belum berhasil dilakukan.
 
-Saya kemudian mengonfirmasi kembali pemahaman saya secara langsung kepada teman. Teman membenarkan bahwa kendalanya memang berada pada proses setup Visual Studio Code.
+Sebelum masuk ke langkah-langkah teknis maupun memberikan solusi, saya melakukan paraphrasing dan mengonfirmasi *Shared Problem Statement* secara eksplisit kepada teman:
 
-Setelah masalah tersebut dipastikan, saya membantu melakukan setup Visual Studio Code sekaligus menjelaskan langkah-langkahnya agar teman saya dapat memahami prosesnya.
+> **Saya:** "Oh, jadi intinya masalahnya adalah di setup VS Code, bukan karena lu ga ngerti coding-nya, benar?"  
+> **Teman:** "Iya, bener banget. Coding-nya sih paham, tapi ini VS Code-nya ga mau jalan pas di-setup."
+
+Setelah partner mengonfirmasi dan menyepakati masalah tersebut secara eksplisit, barulah saya mulai memberikan solusi dengan membantu melakukan setup Visual Studio Code sekaligus menjelaskan langkah-langkahnya agar teman saya dapat memahami prosesnya.
 
 **Problem impact:** Teman saya belum dapat menggunakan Visual Studio Code dengan baik untuk melanjutkan kegiatan pemrograman karena proses setup belum berhasil.
 
@@ -61,17 +64,17 @@ Setelah masalah tersebut dipastikan, saya membantu melakukan setup Visual Studio
 
 Setelah dibantu, teman saya mengucapkan terima kasih.
 
-Kontribusi saya adalah melakukan discovery melalui pertanyaan, mengonfirmasi masalah yang ditemukan, kemudian membantu menyelesaikan setup sambil menjelaskan prosesnya.
+Kontribusi saya adalah melakukan discovery melalui pertanyaan, menyampaikan paraphrase untuk konfirmasi masalah (*Shared Problem Statement*) sebelum solusi, lalu membantu menyelesaikan setup sambil menjelaskan prosesnya.
 
 :::
 
 ## Shared problem statement
 
-Berdasarkan hasil discovery dan konfirmasi langsung dengan teman, kami memahami bahwa masalah utamanya bukan karena teman saya tidak memahami coding, tetapi karena setup Visual Studio Code belum berhasil.
+Berdasarkan hasil discovery dan konfirmasi eksplisit dari percakapan dengan teman, kami menyepakati bahwa masalah utamanya bukan karena pemahaman coding, melainkan kegagalan pada proses *setup* lingkungan kerja di editor.
 
-> Teman saya membutuhkan bantuan untuk menyelesaikan setup Visual Studio Code agar dapat melanjutkan kegiatan pemrograman.
+> **Shared Problem Statement:** "Teman saya membutuhkan bantuan untuk menyelesaikan setup Visual Studio Code agar dapat melanjutkan kegiatan pemrograman."
 
-Problem statement tersebut dibangun berdasarkan hasil pertanyaan discovery dan telah dikonfirmasi secara langsung oleh teman.
+Problem statement tersebut dibangun dari hasil discovery dan telah dikonfirmasi serta disepakati oleh partner sebelum solusi teknis dieksekusi.
 
 ## Analisis komunikasi
 
@@ -79,9 +82,9 @@ Problem statement tersebut dibangun berdasarkan hasil pertanyaan discovery dan t
 |---|---|
 | Person & character | Saya berbicara dengan teman sekelas sehingga menggunakan bahasa yang santai dan langsung. Saya juga berusaha memahami kendalanya sebelum memberikan bantuan. |
 | Objective & state | Tujuan awalnya adalah mengetahui bagian yang menjadi kendala. Saya awalnya mengira masalahnya adalah coding, tetapi setelah bertanya ternyata masalahnya adalah setup Visual Studio Code. |
-| Repertoire & language | Saya menggunakan pertanyaan sederhana, "Apa yang ga lu ngerti?", untuk mengetahui bagian yang menjadi kendala. Setelah masalah ditemukan, saya menggunakan penjelasan langkah-langkah setup untuk membantu. |
-| Response & adaptation | Saya mengubah asumsi awal setelah mendapatkan informasi dari teman. Awalnya saya mengira masalahnya adalah coding, tetapi kemudian menyesuaikan bantuan karena masalah sebenarnya adalah setup Visual Studio Code. |
-| Agreement & action | Setelah mengetahui masalahnya dan mengonfirmasi pemahaman saya dengan teman, saya membantu melakukan setup Visual Studio Code sambil menjelaskan prosesnya. |
+| Repertoire & language | Saya menggunakan pertanyaan sederhana ("Apa yang ga lu ngerti?") untuk menggali masalah, lalu mengonfirmasi pemahaman secara eksplisit ("Jadi intinya masalahnya di setup VS Code, bukan coding, benar?") sebelum memberikan penjelasan teknis setup. |
+| Response & adaptation | Saya mengubah asumsi awal setelah mendapatkan informasi dari teman. Awalnya saya mengira masalahnya adalah coding, tetapi kemudian menyesuaikan bantuan dari penjelasan coding menjadi bantuan setup VS Code. |
+| Agreement & action | Setelah partner mengonfirmasi eksplisit masalah utamanya, saya memberikan solusi bantuan setup VS Code sambil menjelaskan prosesnya. |
 | Relationship outcome | Teman dapat memperoleh bantuan untuk melakukan setup dan memberikan respons positif berupa ucapan terima kasih. Interaksi tetap berjalan dengan baik. |
 
 ## Penggunaan AI
@@ -96,25 +99,23 @@ AI hanya digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksi
 
 **Feedback yang diterima:**  
 
-Teman mengonfirmasi secara langsung bahwa masalah yang dialaminya memang berada pada setup Visual Studio Code, bukan pada pemahaman coding. Setelah saya membantu melakukan setup dan menjelaskan prosesnya, teman saya juga mengucapkan terima kasih.
+Teman mengonfirmasi secara eksplisit bahwa masalah yang dialaminya memang berada pada setup Visual Studio Code, bukan pada pemahaman coding. Setelah saya membantu melakukan setup dan menjelaskan prosesnya, teman saya juga mengucapkan terima kasih.
 
 **Adaptation/replay:**  
 
-Saya menyadari bahwa asumsi awal saya bahwa teman tidak memahami coding ternyata tidak tepat. Dengan bertanya dan mengonfirmasi kembali, saya dapat menyesuaikan bantuan dengan masalah yang sebenarnya.
-
-Jika menghadapi situasi serupa, saya akan tetap melakukan konfirmasi sebelum memberikan solusi agar bantuan yang diberikan sesuai dengan kebutuhan partner.
+Saya menyadari bahwa asumsi awal saya bahwa teman tidak memahami coding ternyata tidak tepat. Dengan menyampaikan paraphrase konfirmasi eksplisit (*"Jadi intinya masalahnya di setup VS Code, bukan coding, benar?"*) sebelum melangkah ke solusi, saya memastikan bahwa kami telah menyepakati *Shared Problem Statement* terlebih dahulu.
 
 **Next practice:**  
 
-Saya akan mempertahankan kebiasaan untuk tidak langsung memberikan solusi berdasarkan asumsi. Saya akan bertanya terlebih dahulu, memahami masalah, kemudian mengonfirmasi pemahaman saya sebelum memberikan bantuan.
+Saya akan mempertahankan kebiasaan untuk tidak langsung memberikan solusi berdasarkan asumsi. Saya akan mengajukan pertanyaan discovery, mengonfirmasi *Shared Problem Statement* secara eksplisit dengan partner, dan baru memberikan solusi teknis setelah ada persetujuan.
 
 ## Refleksi
 
 Dari pengalaman ini, saya menyadari bahwa asumsi awal tidak selalu sesuai dengan masalah sebenarnya. Awalnya saya mengira teman mengalami kesulitan dalam memahami coding, tetapi setelah melakukan discovery melalui pertanyaan, saya mengetahui bahwa kendalanya berada pada setup Visual Studio Code.
 
-Saya juga menyadari pentingnya melakukan konfirmasi terhadap pemahaman masalah. Konfirmasi langsung dengan teman membantu memastikan bahwa solusi yang saya berikan sesuai dengan masalah yang sebenarnya dialami.
+Saya juga menyadari pentingnya melakukan konfirmasi eksplisit terhadap pemahaman masalah sebelum memberikan solusi. Konfirmasi langsung dengan partner memastikan bahwa solusi yang saya berikan benar-benar tepat sasaran dan disepakati bersama.
 
-Ke depannya, saya akan lebih membiasakan diri untuk mendengar dan memahami masalah terlebih dahulu sebelum langsung memberikan solusi.
+Ke depannya, saya akan lebih membiasakan diri untuk mendengar, mengonfirmasi masalah secara eksplisit, baru kemudian melangkah ke pemberian solusi.
 
 ## Self-assessment
 
@@ -122,9 +123,9 @@ Ke depannya, saya akan lebih membiasakan diri untuk mendengar dan memahami masal
 |---|---:|---|
 | Person & Character | 3 – Kompeten | Saya menyesuaikan bahasa dengan teman sekelas dan berusaha memahami kondisi yang dialaminya sebelum membantu. |
 | Objective & State | 3 – Kompeten | Saya memiliki tujuan untuk mengetahui bagian yang menjadi kendala dan mampu menyadari bahwa asumsi awal saya mengenai coding tidak sesuai dengan masalah sebenarnya. |
-| Repertoire, Language & AI | 3 – Kompeten | Saya menggunakan pertanyaan sederhana untuk menggali masalah dan kemudian menjelaskan setup Visual Studio Code secara langsung. |
+| Repertoire, Language & AI | 3 – Kompeten | Saya menggunakan pertanyaan discovery dan kalimat konfirmasi eksplisit sebelum menjelaskan langkah-langkah setup Visual Studio Code. |
 | Response & Adaptation | 3 – Kompeten | Saya mengubah asumsi setelah mendapatkan informasi baru dan menyesuaikan bantuan dari masalah coding menjadi masalah setup. |
-| Agreement, Action & Relationship | 3 – Kompeten | Saya mengonfirmasi pemahaman masalah dengan teman, membantu melakukan setup, dan menjelaskan prosesnya. Teman juga memberikan respons positif berupa ucapan terima kasih. |
+| Agreement, Action & Relationship | 3 – Kompeten | Saya mengonfirmasi pemahaman masalah secara eksplisit dengan teman sebelum memberikan solusi, membantu melakukan setup, dan menjelaskan prosesnya. Teman juga memberikan respons positif berupa ucapan terima kasih. |
 
 **Total:** 15 / 20
 
