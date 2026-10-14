@@ -1,7 +1,7 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3a"
 subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "Mouristio R. A. K. L. Praing"
+author: "Mouristio R. A. K. L. Praing — 1825119"
 lang: id
 status: "Siap dinilai"
 format:

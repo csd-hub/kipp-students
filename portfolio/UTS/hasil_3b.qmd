@@ -1,8 +1,8 @@
 ---
 title: "Laporan UTS KIPP 2026 — Versi 2.0"
 subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI/AI kepada Budi"
-author: "Ali Baba — 07381119"
-date: "2026-10-06"
+author: "Mouristio R. A. K. L. Praing — 1825119"
+date: "2026-10-14"
 lang: id
 format:
   html:
