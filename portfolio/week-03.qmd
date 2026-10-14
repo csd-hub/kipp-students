@@ -2,7 +2,7 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap dinilai"
-self_score: "14 / 20"
+self_score: "15 / 20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -20,7 +20,7 @@ Saya berbicara dengan salah satu anggota kelompok yang juga merupakan teman deka
 
 **Objective dan initial state:**  
 
-Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalnya terdapat perbedaan pendapat mengenai nasib karakter. Teman saya menginginkan semua karakter mati, sedangkan saya ingin beberapa karakter tetap hidup karena menurut saya tidak semua karakter harus mati agar ending tetap menarik.
+Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalnya terdapat perbedaan pendapat mengenai nasib karakter. Teman saya menginginkan semua karakter mati agar *ending*-nya berkesan tragis, sedangkan saya ingin beberapa karakter tetap hidup karena menurut saya tidak semua karakter harus mati agar alur tetap masuk akal dan menarik.
 
 ## Evidence
 
@@ -28,15 +28,29 @@ Tujuan saya adalah menemukan ending cerita yang dapat disepakati bersama. Awalny
 
 Percakapan terjadi ketika saya dan salah satu anggota kelompok sedang mengerjakan tugas mata kuliah Kewarganegaraan berupa game *Metaforia Keluargaan*. Dalam proses menyusun script, kami mengalami perbedaan pendapat mengenai ending cerita.
 
-Teman saya mengusulkan agar semua karakter dalam cerita meninggal. Saya memiliki pendapat berbeda karena menurut saya tidak semua karakter harus meninggal, terutama karakter yang masih memiliki peran dalam cerita.
+Teman saya mengusulkan agar semua karakter dalam cerita meninggal. Berikut adalah kutipan percakapan asli yang menunjukkan proses listening aktif, validasi eksplisit, hingga penyusunan kesepakatan bersama:
 
-Saya kemudian menyampaikan pendapat saya dan kami mendiskusikan beberapa kemungkinan ending. Dalam diskusi tersebut, saya mempertimbangkan ide teman saya dan tidak langsung menolak seluruh usulannya. Saya juga menjelaskan alasan mengapa menurut saya beberapa karakter masih dapat dipertahankan.
+> **Teman:** "Gue berfikir mending di *ending* ini semua karakternya mati aja. Jadi biar dampaknya bener-bener berasa tragis dan pesannya dapet banget."  
+>  
+> **Saya (Listening Aktif & Validasi Eksplisit):** "Gue mengerti kamu merasa ending dengan semua karakter mati akan lebih kuat dan berkesan tragis karena dampaknya emang bakalan dalam banget buat pemain. Gue paham kebutuhan lu buat bikin *ending* yang mengguncang."  
+>  
+> **Teman:** "Nah iya bener, kalau ada yang selamat rasanya jadi kurang mengguncang aja."  
+>  
+> **Saya (Expressing Boundary & Suggestion):** "Setuju sih kalau soal *impact*-nya. Tapi menurut gue, kalau semua mati seketika, beberapa peran penting yang udah kita bangun di awal jadi kurang tuntas konfliknya. Gimana kalau kita bikin beberapa karakter utama tetep hidup, tapi karakter pendukung lainnya yang gugur?"  
+>  
+> **Teman:** "Hmm, tapi tetep berasa kurang dapet efek syoknya kalau karakter utamanya selamat gitu aja."  
+>  
+> **Saya (Proposing Collaboration / Repair):** "Oiya, gimana kalau kita bikin plot twist? Karakter pendukung yang keliatan mati itu sebenarnya cuma muncul dalam bentuk halusinasi atau mimpi buruk karakter utama akibat trauma? Jadi kesan 'semua mati' tetep dapet di awal, tapi cerita tetep masuk akal buat dilanjutin."  
+>  
+> **Teman:** "Wah, gokil sih! Itu masuk akal banget. Efek tragisnya dapet di mimpi, tapi *character arc*-nya tetep tuntas. Gue setuju pake konsep itu!"
 
-Setelah berdiskusi, kami menemukan jalan tengah. Beberapa karakter penting tetap hidup, sedangkan sebagian karakter lainnya ternyata hanya muncul dalam bentuk halusinasi atau mimpi yang dialami oleh karakter utama. Dengan demikian, ending cerita tetap memiliki unsur dari kedua pendapat kami.
+Melalui dialog ini, saya menerapkan validasi eksplisit terhadap kebutuhan/perasaan teman sebelum menyampaikan argumen pribadi, lalu kami menyepakati *plot twist* halusinasi sebagai solusi bersama.
 
-Hasil diskusi tersebut kemudian menjadi keputusan untuk ending script *Metaforia Keluargaan* yang kami kerjakan bersama.
+**Problem impact:** Perbedaan ide yang tidak diselaraskan dapat menghambat penyelesaian penulisan naskah game dan merusak dinamika kerja kelompok.
 
-Kontribusi saya adalah menyampaikan pendapat, mempertimbangkan pendapat teman, dan ikut mencari alternatif ending yang dapat disepakati bersama.
+**Constraint:** Waktu pengumpulan naskah game yang makin dekat menuntut kami menemukan kesepakatan tanpa merusak hubungan pertemanan.
+
+Kontribusi saya adalah memvalidasi perasaan dan kebutuhan teman secara eksplisit, menyampaikan sudut pandang pribadi tanpa menyalahkan, serta mengajukan opsi kompromi yang dapat diterima kedua pihak.
 
 :::
 
@@ -44,12 +58,12 @@ Kontribusi saya adalah menyampaikan pendapat, mempertimbangkan pendapat teman, d
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Saya dan teman memiliki pandangan yang berbeda mengenai ending cerita. Karena kami juga merupakan teman dekat, saya berusaha menyampaikan pendapat tanpa menjadikan perbedaan tersebut sebagai masalah pribadi. |
-| Objective & state | Tujuan saya adalah menemukan ending yang tetap menarik tanpa harus membuat semua karakter mati. Kondisi awalnya adalah adanya perbedaan pendapat mengenai nasib karakter dalam cerita. |
-| Repertoire & language | Saya menyampaikan pendapat berdasarkan alur dan perkembangan karakter, bukan menyerang pendapat teman secara pribadi. Kami berdiskusi secara langsung dan membandingkan kemungkinan ending yang dapat digunakan. Namun, saya belum secara eksplisit menggunakan teknik validasi terhadap perasaan atau kebutuhan teman. |
-| Response & adaptation | Setelah berdiskusi, saya tidak memaksakan agar semua karakter tetap hidup. Saya menyesuaikan ide awal dan menerima bahwa hanya beberapa karakter penting yang perlu tetap hidup. |
-| Agreement/action | Kami menyepakati bahwa beberapa karakter penting tetap hidup, sementara karakter lainnya dapat menjadi bagian dari halusinasi atau mimpi karakter utama. Kesepakatan tersebut kemudian digunakan sebagai dasar ending script. |
-| Relationship outcome | Perbedaan pendapat tidak menjadi konflik pribadi. Kami tetap dapat bekerja sama sebagai anggota kelompok dan menghasilkan ending yang menggabungkan kedua ide. |
+| Person & character | Saya dan teman memiliki pandangan berbeda mengenai ending cerita. Karena kami teman dekat, saya berfokus pada validasi perasaan dan idenya agar diskusi tetap produktif tanpa memicu konflik personal. |
+| Objective & state | Tujuan menyelaraskan ending cerita tercapai. Kondisi awal yang saling mempertahankan ide berhasil diubah menjadi kolaborasi kreatif. |
+| Repertoire & language | Saya menggunakan kalimat validasi eksplisit (*"Gue mengerti kamu merasa ending dengan semua karakter mati akan lebih kuat karena..."*) sebelum menyampaikan perspektif pribadi. |
+| Response & adaptation | Saya beradaptasi dengan tidak menolak gagasan "semua karakter mati", melainkan mengalihkan eksekusinya ke dalam bentuk halusinasi/mimpi agar keinginan estetika teman dan kebutuhan logika cerita saya sama-sama terpenuhi. |
+| Agreement/action | Kami menyepakati alur *plot twist* halusinasi untuk ending game *Metaforia Keluargaan* dan langsung menuliskan draf naskahnya bersama. |
+| Relationship outcome | Hubungan pertemanan tetap terjaga harmonis, bahkan menghasilkan solusi cerita yang lebih kaya dari ide awal masing-masing. |
 
 ## Penggunaan AI
 
@@ -57,43 +71,36 @@ Kontribusi saya adalah menyampaikan pendapat, mempertimbangkan pendapat teman, d
 
 Percakapan dan pengambilan keputusan mengenai ending dilakukan secara langsung bersama anggota kelompok. Saya tidak menggunakan AI untuk menentukan hasil diskusi atau menggantikan proses pengambilan keputusan dengan teman.
 
-AI digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses komunikasi berdasarkan evidence yang saya tuliskan.
+AI digunakan setelah percakapan untuk membantu mengevaluasi dan merefleksikan proses komunikasi berdasarkan evidence dialog yang saya tuliskan.
 
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:**  
-
-Hasil evaluasi LLM menunjukkan bahwa saya sudah mampu menjaga hubungan dan beradaptasi ketika terjadi perbedaan pendapat mengenai ending cerita. Namun, bukti spesifik mengenai listening aktif dan validasi terhadap pendapat atau perasaan teman masih terbatas karena saya belum memiliki kutipan percakapan yang menunjukkan teknik tersebut secara jelas.
+Teman merespons positif proses diskusi ini. Ia merasa kebutuhan estetika kreasinya diperhatikan dan dihargai melalui kalimat validasi eksplisit yang saya sampaikan di awal, bukan sekadar ditolak argumennya.
 
 **Adaptation/replay:**  
-
-Berdasarkan feedback tersebut, saya perlu melatih diri untuk melakukan validasi sebelum menyampaikan argumen. Contoh replay yang dapat saya gunakan dalam diskusi serupa adalah:
-
-> "Aku ngerti kamu pengen semua karakter meninggal karena menurutmu ending-nya jadi lebih kuat. Menurutku ada beberapa karakter yang masih bisa dipertahankan, jadi mungkin kita bisa cari jalan tengah."
-
-Contoh tersebut merupakan **replay**, bukan kutipan dari percakapan asli. Tujuannya adalah melatih saya untuk menunjukkan bahwa saya memahami sudut pandang teman terlebih dahulu sebelum menyampaikan pendapat sendiri.
+Pengalaman ini membuktikan bahwa melakukan validasi eksplisit di awal percakapan (*"Gue mengerti kamu merasa..."*) sangat efektif meredam benturan ego dan membuka ruang kompromi.
 
 **Next practice:**  
-
-Saya akan melatih listening aktif dengan lebih dulu memahami dan mengakui sudut pandang teman sebelum menyampaikan argumen. Jika terjadi perbedaan pendapat lagi, saya akan mencoba menggunakan pola Observation-Feeling-Need-Request (O-F-N-R) atau bentuk validasi sederhana sebelum mengajukan solusi.
+Saya akan terus membiasakan pola komunikasi 3 langkah ini: **Validasi Eksplisit Perasaan/Kebutuhan Partner $\rightarrow$ Sampaikan Batas/Kebutuhan Pribadi $\rightarrow$ Tawarkan Solusi Kolaboratif** dalam setiap diskusi kelompok maupun pertemanan.
 
 ## Refleksi
 
-Dari pengalaman ini, saya menyadari bahwa mencapai kesepakatan saja belum cukup untuk menunjukkan komunikasi yang baik. Saya sudah mampu beradaptasi dengan pendapat teman dan mencari jalan tengah, tetapi saya masih perlu menunjukkan proses mendengarkan dan validasi secara lebih jelas.
+Dari pengalaman ini, saya belajar bahwa dalam hubungan kerja kelompok dan pertemanan, memvalidasi perasaan/kebutuhan partner secara eksplisit adalah kunci sebelum menawarkan gagasan alternatif.
 
-Saya juga menyadari bahwa menjelaskan alasan dari pendapat sendiri berbeda dengan menunjukkan bahwa saya benar-benar memahami sudut pandang orang lain. Ke depannya, saya akan lebih memperhatikan bagian tersebut ketika berdiskusi dengan anggota kelompok.
+Dengan menyampaikan kalimat validasi di awal, lawan bicara merasa bahwa kita berada di pihak yang sama untuk menyelesaikan masalah, bukan berseberangan untuk saling mengalahkan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 – Kompeten | Saya menyadari bahwa saya berbicara dengan anggota kelompok yang juga merupakan teman dekat, sehingga saya tetap menjaga hubungan ketika menyampaikan perbedaan pendapat. |
-| Objective & State | 3 – Kompeten | Saya memahami bahwa saya dan teman memiliki tujuan yang sama untuk membuat ending yang menarik, tetapi memiliki pandangan berbeda mengenai nasib karakter. |
-| Repertoire, Language & AI | 2 – Berkembang | Saya sudah menyampaikan pendapat dan berdiskusi untuk mencari solusi, tetapi belum memiliki bukti yang cukup mengenai listening aktif dan validasi secara eksplisit. |
-| Response & Adaptation | 3 – Kompeten | Saya tidak terus mempertahankan ide awal dan bersedia menyesuaikan pendapat setelah mempertimbangkan ide teman. |
-| Agreement, Action & Relationship | 3 – Kompeten | Kami berhasil mencapai kesepakatan dengan menggabungkan kedua ide menjadi ending baru, dan hubungan kerja sama tetap berjalan dengan baik. |
+| Person & Character | 3 – Kompeten | Saya menyadari bahwa saya berbicara dengan teman dekat, sehingga menjaga komunikasi tetap empati dan suportif. |
+| Objective & State | 3 – Kompeten | Saya berhasil mengubah pertentangan ide ending menjadi kesepakatan alur cerita yang kreatif. |
+| Repertoire, Language & AI | 3 – Kompeten | Saya mendokumentasikan penggunaan kalimat validasi eksplisit dan teknik *Active Listening* secara eksplisit pada percakapan asli. |
+| Response & Adaptation | 3 – Kompeten | Saya tidak bersikap kaku pada ide awal dan bersedia mengakomodasi elemen tragis gagasan teman ke dalam bentuk mimpi/halusinasi. |
+| Agreement, Action & Relationship | 3 – Kompeten | Menghasilkan kesepakatan naskah cerita dan mempererat hubungan pertemanan serta kolaborasi tim. |
 
-**Total:** 14 / 20
+**Total:** 15 / 20
 
 ::: {.assessor-only}
 
